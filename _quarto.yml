@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "Historia-de-Espanya-XIX-PAU-CV"
+  author: "Norah Jones"
+  date: "3/16/2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
