@@ -1,23 +1,56 @@
-project:
+project: 
   type: book
+  preview: 
+    browser: false
+    port: 3000
+
 
 book:
-  title: "Historia-de-Espanya-XIX-PAU-CV"
-  author: "Norah Jones"
-  date: "3/16/2024"
+  title: "Historia de España S.XIX PAU CV"
+  author: "Javier Ribal del Río"
+  date: "2024"
+  language: "es"
+  image: cover.png
+  cover-image: cover.png
   chapters:
     - index.qmd
     - intro.qmd
-    - summary.qmd
-    - references.qmd
+    - pages/Unidades/Fernando.qmd
+    - pages/Unidades/MCristina.qmd
+    - pages/Unidades/Industria.qmd
+    - pages/Unidades/Sociedad-XIX.qmd
+    - pages/Unidades/Inicio-Restauracion.qmd
+    - pages/Unidades/Fin-Restauracion.qmd
+    - pages/Unidades/Sociedad-XX.qmd
+    - pages/Vocabulario.qmd
+    - pages/Preguntas-Transversales.qmd
 
-bibliography: references.bib
 
 format:
   html:
+    toc-depth: 4
     theme: cosmo
   pdf:
     documentclass: scrreprt
-
-
+    toc-depth: 4
+    papersize: a4
+    mainfont: Montserrat
+    geometry: "top=2.5cm, bottom=2.5cm"
+    lang: "es-ES"
+    df-print: default
+    metadata:
+      title-meta: "Historia de España S.XIX PAU CV"
+      author-meta: "Javier Ribal del Río"         
+    include-in-header: 
+      text: |
+        \usepackage{scrlayer-scrpage}
+        \clearpairofpagestyles
+        \automark[chapter]{chapter} % Activa la marcación automática del capítulo  
+        \ihead{\leftmark}  
+        \setheadsepline{0.4pt}
+        \setfootsepline{0.4pt} % Inserta una línea sobre el pie de página
+        \cfoot[\pagemark]{ Historia de España s.XIX PAU Comunidad Valenciana \quad \quad Página: \pagemark. }
+        \pagestyle{scrheadings}
+    
+   
 
