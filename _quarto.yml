@@ -8,6 +8,14 @@ project:
 book:
   title: "Historia de España S.XIX PAU CV"
   author: "Javier Ribal del Río"
+  sidebar: 
+    tools: 
+      - icon: github
+        href: https://github.com/JavierRibaldelRio
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/javier-ribal/
+        aria-label: LinkedIn
   date: "2024"
   language: "es"
   image: cover.png
@@ -30,7 +38,7 @@ format:
   html:
     toc-depth: 4
     theme: cosmo
-  pdf:
+  pdf:  
     documentclass: scrreprt
     toc-depth: 4
     papersize: a4
