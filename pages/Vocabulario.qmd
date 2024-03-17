@@ -1,55 +1,57 @@
 # Vocabulario
 
-## El Reinado de Fernando VII
+## Definiciones
+
+### El Reinado de Fernando VII
 
 - **Antiguo Régimen:** sistema social, económico y político utilizado en Europa antes del siglo XVIII. Se caracteriza por centralizar todos los poderes en la monarquía que es elegida por la iglesia a través del derecho divino. La sociedad se encuentra dividida en estamentos siendo el clero y la nobleza los estamentos privilegiados. Mientras que económicamente predomina la economía de subsistencia basada en la agricultura y la ganadería.
  
-- **Ilustración:** Movimiento económico, político, social y cultural nacido en Francia durante el siglo XVIII. Los pensadores ilustrados como Jovellanos y Floridablanca, afirmaban que el conocimiento era una arma para luchar en contra de la ignorancia. De la ilustración nacen conceptos como la libertad de pensamiento, los derechos humanos y la división de poderes. 
+- **Ilustración:** movimiento económico, político, social y cultural nacido en Francia durante el siglo XVIII. Los pensadores ilustrados como Jovellanos y Floridablanca, afirmaban que el conocimiento era una arma para luchar en contra de la ignorancia. De la ilustración nacen conceptos como la libertad de pensamiento, los derechos humanos y la división de poderes. 
 
-- **Desamortización:** Estrategia económica que consiste en que el estado expropie tierras sin uso o en manos muertas para recaudar dinero con su venta y aumentar la producción agrícola. Distinguimos dos tipos eclesiásticas y civiles. A pesar de se una estrategia económica puede tener repercusión en la sociedad.
+- **Desamortización:** estrategia económica que consiste en que el estado expropie tierras sin uso o en manos muertas para recaudar dinero con su venta y aumentar la producción agrícola. Distinguimos dos tipos eclesiásticas y civiles. A pesar de se una estrategia económica puede tener repercusión en la sociedad.
  
  
-- **Manos muertas:** tierras que no producen ni esta en venta, por lo que no produce ningún tipo de beneficio. Tradicionalmente la Iglesia ha poseído muchas manos muertas, que al estar sin uso han sido desamortizadas justificadamente por el estado
+- **Manos muertas:** tierras que no producen ni esta en venta, por lo que no produce ningún tipo de beneficio. Tradicionalmente la Iglesia ha poseído muchas manos muertas, que al estar sin uso han sido desamortizadas justificadamente por el estado.
 
-- **Gremios:** agrupaciones de artesanos que comparten el mismo oficio, aparecen durante el Feudalismo. Los gremios contaban con una estructura jerárquica que va desde el aprendiz al maestro, además de reglamentos internos que regulaban las actividades de sus miembros. Los gremios fuero una pieza clave para la economía de la época. Normalmente los integrantes del mismo gremio vivían en la misma zona
+- **Gremios:** agrupaciones de artesanos que comparten el mismo oficio, aparecen durante el Feudalismo. Los gremios contaban con una estructura jerárquica que va desde el aprendiz al maestro, además de reglamentos internos que regulaban las actividades de sus miembros. Los gremios fuero una pieza clave para la economía de la época. Normalmente los integrantes del mismo gremio vivían en la misma zona.
 
 - **Estatuto de Bayona**: marco legislativo promovido por José I tras las abdicaciones de Fernando VII y Carlos IV, tiene como objetivo cambiar la leyes españolas para limitar el Antiguo Régimen. Algunas de sus medidas son: el fin de los privilegios y mayorazgos, la abolición de la inquisición, desamortizar a la iglesia...
 
-- **Mayorazgo:** institución del Antiguo Régimen que vinculaba las tierras y los títulos nobiliarios con los primogénitos que los heredaban.  El contenido de la herencia a de pasar de generación en generación ya que no es posible venderlo de esta forma se obtiene que la nobleza acumule tierras y mantenga el linaje
+- **Mayorazgo:** institución del Antiguo Régimen que vinculaba las tierras y los títulos nobiliarios con los primogénitos que los heredaban.  El contenido de la herencia a de pasar de generación en generación ya que no es posible venderlo de esta forma se obtiene que la nobleza acumule tierras y mantenga el linaje.
 
-- **Afrancesados:** durante la invasión francesa de 1808 a 1814, minoría social conformada por numeroso ilustrados, altos funcionarios y alta nobleza que aceptaron a José I como rey tras la abdicación de Carlos IV y Fernando VII, porque deseaban distanciarse del antiguo régimen y acercarse más a las ideas ilustradas. Al acabar la guerra de la independencia muchos se ven obligados a exiliarse
+- **Afrancesados:** durante la invasión francesa de 1808 a 1814, minoría social conformada por numeroso ilustrados, altos funcionarios y alta nobleza que aceptaron a José I como rey tras la abdicación de Carlos IV y Fernando VII, porque deseaban distanciarse del antiguo régimen y acercarse más a las ideas ilustradas. Al acabar la guerra de la independencia muchos se ven obligados a exiliarse.
  
-- **Patriotas:** durante la invasión francesa de 1808 a 1814, mayoría social que se opuso a la invasión. La nobleza y el clero deseaban la vuelta del Antiguo Régimen de la mano de Fernando VII; mientras que algunos ilustrados esperaban compatibilizar su vuelta con la modernización del país. La burguesía  y los intelectuales deseaban instaurar un sistema liberar-parlamentario y abolir los gremios. Mientras que los campesinos estaban en contra de los franceses porque los veían como invasores 
+- **Patriotas:** durante la invasión francesa de 1808 a 1814, mayoría social que se opuso a la invasión. La nobleza y el clero deseaban la vuelta del Antiguo Régimen de la mano de Fernando VII; mientras que algunos ilustrados esperaban compatibilizar su vuelta con la modernización del país. La burguesía  y los intelectuales deseaban instaurar un sistema liberar-parlamentario y abolir los gremios. Mientras que los campesinos estaban en contra de los franceses porque los veían como invasores .
 
-- **Parlamentarismo:** sistema de gobierno basado en la separación de poderes donde el gobierno (poder Ejecutivo) depende de un parlamento (poder Legislativo) conformado por representantes elegidos por el pueblo a través de las elecciones. El parlamento además aprueba leyes y toma decisiones políticas
+- **Parlamentarismo:** sistema de gobierno basado en la separación de poderes donde el gobierno (poder Ejecutivo) depende de un parlamento (poder Legislativo) conformado por representantes elegidos por el pueblo a través de las elecciones. El parlamento además aprueba leyes y toma decisiones políticas.
 
-- **Guerra de guerrillas:** estrategia militar en la cual pequeños grupos los cuales están conformados por civiles o paramilitares asaltan al enemigo aprovechando el factor sorpresa, o otras artimañas como esconderse en zonas montañosas y esperar a que pase el enemigo. Esta estrategia es común en guerras de desgaste, el termino fue acuñado en España durante la Guerra de la Independencia(1808-1814)
+- **Guerra de guerrillas:** estrategia militar en la cual pequeños grupos los cuales están conformados por civiles o paramilitares asaltan al enemigo aprovechando el factor sorpresa, o otras artimañas como esconderse en zonas montañosas y esperar a que pase el enemigo. Esta estrategia es común en guerras de desgaste, el termino fue acuñado en España durante la Guerra de la Independencia(1808-1814).
  
-- **Tratado de Valençay:** tratado firmado por Napoleón Bonaparte para terminar con la Guerra de la Independencia (1808-1814) y liberar a Fernando VII. Esto ocurre tras la guerra de guerrillas y el traslado de tropas para la guerra de Francia con Rusia
+- **Tratado de Valençay:** tratado firmado por Napoleón Bonaparte para terminar con la Guerra de la Independencia (1808-1814) y liberar a Fernando VII. Esto ocurre tras la guerra de guerrillas y el traslado de tropas para la guerra de Francia con Rusia.
 
-- **Constitución:** Ley suprema o carta magna, es un documento que establece el marco legislativo de un país, de ella dependen del resto de leyes. Incluye también los derechos, deberes y libertades de los ciudadanos, los poderes del gobierno, la separación de poderes (Judicial, Legislativo y Ejecutivo), la estructura del gobierno (república o monarquía) o pautas de actuación frente a diferentes situaciones
+- **Constitución:** Ley suprema o carta magna, es un documento que establece el marco legislativo de un país, de ella dependen del resto de leyes. Incluye también los derechos, deberes y libertades de los ciudadanos, los poderes del gobierno, la separación de poderes (Judicial, Legislativo y Ejecutivo), la estructura del gobierno (república o monarquía) o pautas de actuación frente a diferentes situaciones.
 
-- **Regencia:** persona o grupos de 3 o 5 personas que ejercen el papel de la figura del monarca cuando éste no se encuentra disponible para reinar por una de las siguientes razones: es menor de edad, esta físicamente ausente o esta enfermo y no es capaz se ejercer. Normalmente cuando el heredero al trono era menor de edad su madre solía ser la regente
+- **Regencia:** persona o grupos de 3 o 5 personas que ejercen el papel de la figura del monarca cuando éste no se encuentra disponible para reinar por una de las siguientes razones: es menor de edad, esta físicamente ausente o esta enfermo y no es capaz se ejercer. Normalmente cuando el heredero al trono era menor de edad su madre solía ser la regente.
 
-- **Laicismo:** corriente ideológica que promueve la independencia del estado con cualquier religión. Es lo contrario de confesionalidad, la cual fomenta una religión oficial. El movimiento se origina en Francia durante la revolución francesa. Además España ha sido un estado laico tres veces, en las dos repúblicas y tras la Constitución de 1978
+- **Laicismo:** corriente ideológica que promueve la independencia del estado con cualquier religión. Es lo contrario de confesionalidad, la cual fomenta una religión oficial. El movimiento se origina en Francia durante la revolución francesa. Además España ha sido un estado laico tres veces, en las dos repúblicas y tras la Constitución de 1978.
 
-- **Sufragio:** derecho recogido en la constitución del grupo de la oblación que a nivel legislativo se encuentra capacidad para votar. Distinguimos diferentes tipos de sufragio tales como el sufragio universal o el sufragio masculino. Algunos criterios para elegir quien puede votar son:  el género, la edad, la etnia o la formación
+- **Sufragio:** derecho recogido en la constitución del grupo de la oblación que a nivel legislativo se encuentra capacidad para votar. Distinguimos diferentes tipos de sufragio tales como el sufragio universal o el sufragio masculino. Algunos criterios para elegir quien puede votar son:  el género, la edad, la etnia o la formación.
 
-* **Milicia Nacional:** grupo organizado de civiles armados cuya función era defender el liberalismo y la constitución. La primera fue establecida por la Constitución de 1812 que fue promulgada durante la Guerra de la Independencia (1808-1814). Fue disuelta por Fernando VII con el restablecimiento del Antiguo Régimen
+* **Milicia Nacional:** grupo organizado de civiles armados cuya función era defender el liberalismo y la constitución. La primera fue establecida por la Constitución de 1812 que fue promulgada durante la Guerra de la Independencia (1808-1814). Fue disuelta por Fernando VII con el restablecimiento del Antiguo Régimen.
  
-- **Cortes:** grupo de personas conformado por diputados y senadores que han de representar a toda la población de un estado. Las cortes ejercen el poder Legislativo y han de controlar la acción del gobierno (poder Ejecutivo), además de redactar las leyes. En España están conformadas por el Congreso de los Diputados y el Senado
+- **Cortes:** grupo de personas conformado por diputados y senadores que han de representar a toda la población de un estado. Las cortes ejercen el poder Legislativo y han de controlar la acción del gobierno (poder Ejecutivo), además de redactar las leyes. En España están conformadas por el Congreso de los Diputados y el Senado.
 
 - **Manifiesto de los Persas:** documento publicado tras la vuelta de Fernando VII a España. Tiene como objetivo incitar a el Monarca a reinstaurar el Antiguo Régimen y abolir la Constitución de 1812 promulgada por las cortes de Cádiz. La escritura del manifiesto fue impulsada por la Iglesia y la Nobleza que pretendían recuperar sus privilegios
 
-- **Pronunciamiento:** acto de militares dirigidos por un alto cargo que tiene como objetivo provocar un cambio político, ya sea un cambio de gobierno o incluso instaurar una constitución. Durante el siglo XIX en España hubo muchos pronunciamientos, sin embargo, la gran inmensa mayoría fracasaron. Mientras que unos pocos como el de Riego en 1820 tuvieron éxito
+- **Pronunciamiento:** acto de militares dirigidos por un alto cargo que tiene como objetivo provocar un cambio político, ya sea un cambio de gobierno o incluso instaurar una constitución. Durante el siglo XIX en España hubo muchos pronunciamientos, sin embargo, la gran inmensa mayoría fracasaron. Mientras que unos pocos como el de Riego en 1820 tuvieron éxito.
 
-- **Liberalismo:** ideología política y económica que promueve la libertad individual, el estado de derecho, y el laicismo como pilares fundamentales para la creación de una sociedad. La economía del régimen liberal es librecambista y esta basada en la lay de la oferta y la demanda. Mientras que en el ámbito social promueve la igualdad de oportunidades entre los ciudadanos aunque aparecen las clases sociales. Los ilustrados promueven el liberalismo en contra del Antiguo Régimen. Fue expandido por Europa gracias a la Revolución Francesa
+- **Liberalismo:** ideología política y económica que promueve la libertad individual, el estado de derecho, y el laicismo como pilares fundamentales para la creación de una sociedad. La economía del régimen liberal es librecambista y esta basada en la lay de la oferta y la demanda. Mientras que en el ámbito social promueve la igualdad de oportunidades entre los ciudadanos aunque aparecen las clases sociales. Los ilustrados promueven el liberalismo en contra del Antiguo Régimen. Fue expandido por Europa gracias a la Revolución Francesa.
 
-- **Separación de Poderes:** principio que implica dividir las funciones del estado en tres poderes independientes. El poder Ejecutivo implementa las leyes y políticas, el poder Legislativo redacta y aprueba leyes, esta representado por las cortes. Mientras que el poder Judicial interpreta y aplica las leyes, a través de los jueces. La separación de poderes fue propuesta por Montesquieu y está recogida en la constitución
+- **Separación de Poderes:** principio que implica dividir las funciones del estado en tres poderes independientes. El poder Ejecutivo implementa las leyes y políticas, el poder Legislativo redacta y aprueba leyes, esta representado por las cortes. Mientras que el poder Judicial interpreta y aplica las leyes, a través de los jueces. La separación de poderes fue propuesta por Montesquieu y está recogida en la constitución.
 
 - **Amnistía:** concepto legal que hace referencia al perdón de las sanciones a quienes han cometido algún delito. Por ejemplo, al inicio del Trienio Liberal tras el pronunciamiento de Riego se proclama una amnistía por la cual lo liberales y los afrancesados pueden volver a España.
 
-- **Derecho de Veto**: capacidad del monarca recogida en la Constitución para rechazar leyes y propuestas de las Cortes (poder Legislativo). Durante el Trienio Liberal (1820-1823), Fernando VII lo emplea para frenar leyes de las cortes y a sí retrasar el avance del Liberalismo en España
+- ***   **Derecho de Veto**: capacidad del monarca recogida en la Constitución para rechazar leyes y propuestas de las Cortes (poder Legislativo). Durante el Trienio Liberal (1820-1823), Fernando VII lo emplea para frenar leyes de las cortes y a sí retrasar el avance del Liberalismo en España.
 
 - **Realistas:** grupos que apoyan a la monarquía como sistema de gobierno, además del Antiguo Régimen. Están en contra del Liberalismo y de los sistemas de Gobierno como la república. Estaban conformados por miembros de la nobleza y la iglesia
 
@@ -57,7 +59,7 @@
 
 - **Ley Sálica:** ley que elimina el derecho al trono de las mujeres, en España el primero en implantarla fuer Felipe V. Fernando VII influido por su esposa promulga la pragmática sanción para garantizar que su hija Isabel II acceda al trono
 
-- **Pragmática Sanción:** ley promulgada por Fernando VII por influencia de su esposa Mª Cristina, para abolir la ley Sálica, la cual impedía a su hija Isabel II reinar. Esta causa que haya gente que no reconozca a Isabel II como reina sino a Carlos Mª Isidro (hermano de Fernando VII) como monarca, lo que desencadena el Carlismo
+- **Pragmática Sanción:** ley promulgada por Fernando VII por influencia de su esposa Mª Cristina, para abolir la ley Sálica, la cual impedía a su hija Isabel II reinar. Esta causa que haya gente que no reconozca a Isabel II como reina sino a Carlos Mª Isidro (hermano de Fernando VII) como monarca, lo que desencadena el Carlismo.
 
 - **Burguesía criolla**: descendientes de Españoles nacidos en América, su riqueza se generada por la venta de productos como café o patata y gracias al comercio colonial y mercantilista. Jugaron un papel importante en la independencia de las colonias Españolas por su dominio de las ideas ilustradas.
 
@@ -68,57 +70,55 @@
 - **Mesta:** privilegio que gozaban los ganaderos por el cual podían transitar libremente por las cañadas reales, además también estaban exentos de algunos impuestos. Durante el reinado de Fernando VII (1808-1833) es abolido y reimplantado varias veces hasta su supresión definitiva por los gobiernos de María Cristina.
 
 ***
-## La liberalización, la regencia de MªCristina, el reinado de Isabel II y el Sexenio Democrático
-- **Carlismo:** movimiento político español que promueve a Carlos María Isidro y su descendencia como monarcas de España.Estaban enfrentados contra los cristinos o isabelinos porque Fernando VII había promulgado la Pragmática Sanción para abolir la ley Sálica y permitir que Isabel II reine. Mantienen una ideología conservadora y su lema es: "Dios, Patria, Rey/Fueros"
+### La liberalización, la regencia de MªCristina, el reinado de Isabel II y el Sexenio Democrático
+- **Carlismo:** movimiento político español que promueve a Carlos María Isidro y su descendencia como monarcas de España.Estaban enfrentados contra los cristinos o isabelinos porque Fernando VII había promulgado la Pragmática Sanción para abolir la ley Sálica y permitir que Isabel II reine. Mantienen una ideología conservadora y su lema es: "Dios, Patria, Rey/Fueros".
 
-- **Isabelinos:** también conocidos como cristinos, movimiento político que promovía a Isabel II como heredera al trono. Estaban enfrentados con los Carlistas porque Fernando VII promulgó la Pragmática Sanción para abolir la ley Sálica, la cual inhabilitaba a Isabel II como candidata al trono. Mantiene una ideología moderada liberal
+- **Isabelinos:** también conocidos como cristinos, movimiento político que promovía a Isabel II como heredera al trono. Estaban enfrentados con los Carlistas porque Fernando VII promulgó la Pragmática Sanción para abolir la ley Sálica, la cual inhabilitaba a Isabel II como candidata al trono. Mantiene una ideología moderada liberal.
 
-- **Fueros:** ley que otorga un privilegio a una zona, ciudad, o persona, que normalmente es otorgada por el monarca. En el siglo XIX el gobierno liberal de María Cristina eliminó los fueres, durante la primera guerra carlistas (1833-1840) además de pelear por el trono de España, los carlistas también lucharon por la reinstaruración de los fueros
+- **Fueros:** ley que otorga un privilegio a una zona, ciudad, o persona, que normalmente es otorgada por el monarca. En el siglo XIX el gobierno liberal de María Cristina eliminó los fueres, durante la primera guerra carlistas (1833-1840) además de pelear por el trono de España, los carlistas también lucharon por la reinstaruración de los fueros.
 
-- **Quintos:** sistema de reclutamiento militar que consiste en realizar un sortero entre los jóvenes varones mayores de edad. Fue utilizado en España durante la primera guerra Carlista (1833-1840). Las familias burguesas o la nobleza, a veces, para evitar el reclutamiento utilizaban el soborno o pagaban a alguien más pobre para que acudiera a el servicio
+- **Quintas:** sistema de reclutamiento militar que consiste en realizar un sortero entre los jóvenes varones mayores de edad. Fue utilizado en España durante la primera guerra Carlista (1833-1840). Las familias burguesas o la nobleza, a veces, para evitar el reclutamiento utilizaban el soborno o pagaban a alguien más pobre para que acudiera a el servicio.
 
-- **Transaccionistas e Intransigentes:** durante la primera guerra de sucesión carlista (1833-1840) el carlismo se dividió en dos vertientes. Los transaccionistas proponen un acuerdo con los liberales para detener la guerra civil. Mientras que los intransigentes deseaban continuar con la guerra. Finalmente la guerra acaba con el convenio de Vergara (1839)
+- **Transaccionistas e Intransigentes:** durante la primera guerra de sucesión carlista (1833-1840) el carlismo se dividió en dos vertientes. Los transaccionistas proponen un acuerdo con los liberales para detener la guerra civil. Mientras que los intransigentes deseaban continuar con la guerra. Finalmente la guerra acaba con el convenio de Vergara (1839).
 
 - **Diezmo:** impuesto que se pagaba durante la Edad Media y la Edad Moderna, consistía en entregar el 10% (de ahí el nombre) de los beneficios agrícolas a la iglesia local que los utilizaba para financiar actividades religiosas. Este impuesto únicamente lo pagaban los campesinos, para los cuales eran una gran carga. Durante el siglo XIX se elimina y se reimplanta múltiples veces hasta su abolición definitiva.
 
-- **Monarquía parlamentaria o constitucional:** sistema político donde el monarca es el jefe del estado, el cual esta sometido a la Constitución vigente y al parlamento (poder Legislativo). El monarca pasa a tomar un papel ceremonial, representativo o testimonial. Ya que el poder de tomar decisiones políticas recae sobre el presidente y el gobierno (poder Ejecutivo)
+- **Monarquía parlamentaria o constitucional:** sistema político donde el monarca es el jefe del estado, el cual esta sometido a la Constitución vigente y al parlamento (poder Legislativo). El monarca pasa a tomar un papel ceremonial, representativo o testimonial. Ya que el poder de tomar decisiones políticas recae sobre el presidente y el gobierno (poder Ejecutivo).
 
-- **Señoríos:** también llamados feudos, durante la Edad Media y la Edad Moderna, eran los territorios controlados por un señor feudal que pertenecía a la nobleza. Los señores feudales tenían como súbditos a los campesinos los cuales trabajaban la tierra a cambio de protección. Durante el siglo XIX, progresivamente, los feudos de los señores feudales pasaran a ser tierras de un dueño, el cual si desea que las tierras se trabajar las tierras tendrá que alquilarlas o contratar trabajadores 
+- **Señoríos:** también llamados feudos, durante la Edad Media y la Edad Moderna, eran los territorios controlados por un señor feudal que pertenecía a la nobleza. Los señores feudales tenían como súbditos a los campesinos los cuales trabajaban la tierra a cambio de protección. Durante el siglo XIX, progresivamente, los feudos de los señores feudales pasaran a ser tierras de un dueño, el cual si desea que las tierras se trabajar las tierras tendrá que alquilarlas o contratar trabajadores.
 
-- **Moderantismo:** corriente política que aparece en España durante la regencia de María Cristina la cual tiene como objetivo compatibilizar los poderes de la monarquía con las ideas liberales e ilustradas y la confesionalidad del estado mediante una monarquía constitucional. Algunas de sus características son restringir las libertades y el sufragio censatario. Además rehuye las ideas absolutistas y las liberales extremas ya que ansía el equilibrio
+- **Moderantismo:** corriente política que aparece en España durante la regencia de María Cristina la cual tiene como objetivo compatibilizar los poderes de la monarquía con las ideas liberales e ilustradas y la confesionalidad del estado mediante una monarquía constitucional. Algunas de sus características son restringir las libertades y el sufragio censatario. Además rehuye las ideas absolutistas y las liberales extremas ya que ansía el equilibrio.
 
-- **Camarilla de Isabel II:** grupo de personas leales y cercanas a la reina Isabel II que durante su reinado (1833-1868) influyeron en gran medida en las decisiones de la reina. Algunos de sus miembros eran María Cristina y Francisco de Asís (su marido)
+- **Camarilla de Isabel II:** grupo de personas leales y cercanas a la reina Isabel II que durante su reinado (1833-1868) influyeron en gran medida en las decisiones de la reina. Algunos de sus miembros eran María Cristina y Francisco de Asís (su marido).
 
 - **Oligarquía:** sistema de gobierno en el cual el poder de la nación recae sobre un grupo de personas pertenecientes a una clase social privilegiada. En la Década Moderada (1844-1854) parte del poder recaía sobre un grupo de personas ricas e influyentes como la burguesía o la nobleza, ya que el sufragio era censatario.
 
-- **Sufragio censatario:** sistema  de votación en el cual únicamente pueden votar aquellos que  cumplan determinadas condiciones económicas, sociales o de formación. Durante la Década Moderada (1845-1854), el sufragio era censatario e inferior al (1%), lo cual causaba que sólo pudieran votar la iglesia, el ejercito y grandes contribuyentes
+- **Sufragio censatario:** sistema  de votación en el cual únicamente pueden votar aquellos que  cumplan determinadas condiciones económicas, sociales o de formación. Durante la Década Moderada (1845-1854), el sufragio era censatario e inferior al (1%), lo cual causaba que sólo pudieran votar la iglesia, el ejercito y grandes contribuyentes.
 
-- **Culto y clero:** acuerdo por el cual el Estado se comprometía a financiar a la Iglesia Católica. Mientras que la Iglesia se compromete con la educación y los hospitales. Este acuerdo se ve reforzado tras el Concodrato de la Santa Sede, firmado en la Década Moderada (1845-1854)
+- **Culto y clero:** acuerdo por el cual el Estado se comprometía a financiar a la Iglesia Católica. Mientras que la Iglesia se compromete con la educación y los hospitales. Este acuerdo se ve reforzado tras el Concodrato de la Santa Sede, firmado en la Década Moderada (1845-1854).
 
-- **Impuesto de consumos:** tasa impuesta en la Década Moderada (1845-1854) tras la reforma fiscal de Món-Santillán, por la que la gente que compraba ciertos productos de consumo diario pagaba una cantidad adicional que servía para llenar las arcas del Estado
+- **Impuesto de consumos:** tasa impuesta en la Década Moderada (1845-1854) tras la reforma fiscal de Món-Santillán, por la que la gente que compraba ciertos productos de consumo diario pagaba una cantidad adicional que servía para llenar las arcas del Estado.
 
-- **Vicalvarada:** pronunciamiento de 1854 iniciado tras la publicación del Manifiesto de Manzanares escrito por Cánovas del Castillo y formado por O'Donnell. Tiene como objetivo restablecer la Milicia Nacional, reducir los impuestos y reformar la Ley Electora, además de acabar con la camarilla de Isabel II. Pone fina la Década Moderada (1845-1854) e inicia el Bienio Progresista(1854-1856)
+- **Vicalvarada:** pronunciamiento de 1854 iniciado tras la publicación del Manifiesto de Manzanares escrito por Cánovas del Castillo y formado por O'Donnell. Tiene como objetivo restablecer la Milicia Nacional, reducir los impuestos y reformar la Ley Electora, además de acabar con la camarilla de Isabel II. Pone fina la Década Moderada (1845-1854) e inicia el Bienio Progresista(1854-1856).
 
 - **Huelga general:** paro organizado por los trabajadores de todos los sectores, de esta forma todos los trabajadores presionan al gobierno para realizar algún cambio ya sea de condiciones laborales o salario. Suelen ser convocadas por las asociaciones de los trabajadores.
 
-- **Moción de Censura:** procedimiento parlamentario recogido en la constitución en el cual un grupo de diputados muestra su desacuerdo con el gobierno vigente para forzar la destitución de éste. Si la moción de censura es aprobada el gobierno debe renunciar y se elige un nuevo gobierno. El gobierno de O'Donnell sufrió un intento de moción de censura al final del Bienio Progresista (1854-1856)
+- **Moción de Censura:** procedimiento parlamentario recogido en la constitución en el cual un grupo de diputados muestra su desacuerdo con el gobierno vigente para forzar la destitución de éste. Si la moción de censura es aprobada el gobierno debe renunciar y se elige un nuevo gobierno. El gobierno de O'Donnell sufrió un intento de moción de censura al final del Bienio Progresista (1854-1856).
 
 - **Unionista:** movimiento del partido político "Unión Liberal" fundado por O'Donnell. Es un partido de centro ya que concentra a los más conservadores de entre los progresistas y a los liberales más moderados. Tras el Bienio Progresista (1854 - 1856) estuvo al frente del gobierno.
 
-***
-
- - **Democracia:** sistema político en el cual los ciudadanos ejercen la soberanía nacional mediante las elecciones. Se caracteriza por el respeto de los derechos humanos, el estado de derecho, la separación de poderes, la igualdad ante la ley políticos hacia el pueblo. Las distintas ideologías están representadas por los diferentes partidos políticos. A partir de mediados del siglo XIX se empieza a expandir por Europa
+ - **Democracia:** sistema político en el cual los ciudadanos ejercen la soberanía nacional mediante las elecciones. Se caracteriza por el respeto de los derechos humanos, el estado de derecho, la separación de poderes, la igualdad ante la ley políticos hacia el pueblo. Las distintas ideologías están representadas por los diferentes partidos políticos. A partir de mediados del siglo XIX se empieza a expandir por Europa.
 
 - **Diputación:** institución administrativa, destina da representar los intereses de las provincias españolas. En el siglo XIX gestionaban la recaudación de impuestos y las obra pública, además de intermediar entre los municipios y el gobierno central. En el Sexenio Democrático (1868-1874) aparecen las elecciones a Diputación. Contribuyen a la descentralización del Estado.
 
 - ***Hambre de Algodón:*** crisis económica que afectó a España. se inicia cuando durante la Guerra de Secesión Americana se detiene la producción de algodón el cual se importaba a Europa, lo cual causa que el precio de este aumente. Esta crisis tuvo gran repercusión en España ya que su industria estaba poco desarrollada y a la vez se enfrentaba a una crisis financiera y a otra de subsistencia.
 
-- **República:** forma de gobierno donde el poder reside en el pueblo y en sus representantes elegidos, en lugar de estar en un monarca hereditario. En una república, el jefe de Estado y otros funcionarios son elegidos por su pueblo, el país es gobernado por leyes recogidas en la constitución. Además se rigen por la soberanía popular. A partir, de la revolución francesa se extiende por Europa
+- **República:** forma de gobierno donde el poder reside en el pueblo y en sus representantes elegidos, en lugar de estar en un monarca hereditario. En una república, el jefe de Estado y otros funcionarios son elegidos por su pueblo, el país es gobernado por leyes recogidas en la constitución. Además se rigen por la soberanía popular. A partir, de la revolución francesa se extiende por Europa.
 
-- **Cantonalismo:** movimiento republicano federalista  que aparece en España durante la Primera República (1873-1874). Es fomentado por los federalistas intransigentes, que basan el cantonalismo en las ideas anárquicas de la AIT. Consiste en que varias regiones declaran su independencia y forman su propio gobierno autónomo, el objetivo es descentralizar el poder.  El ejemplo mas característico es el cantón de Cartagena
+- **Cantonalismo:** movimiento republicano federalista  que aparece en España durante la Primera República (1873-1874). Es fomentado por los federalistas intransigentes, que basan el cantonalismo en las ideas anárquicas de la AIT. Consiste en que varias regiones declaran su independencia y forman su propio gobierno autónomo, el objetivo es descentralizar el poder.  El ejemplo mas característico es el cantón de Cartagena.
 
 ***
-## La transformación industrial y agraria del s.XIX
+### La transformación industrial y agraria del s.XIX
 
 - **Ciclo Demográfico Antiguo:** demografía del Antiguo Régimen. Se caracteriza por tener una alta mortalidad, por la abundancias de epidemias y por la falta de higiene, ya que, sobretodo en las zonas rurales, la medicina todavía no estaba suficientemente avanzada. Además de una alta natalidad, ya que la economía era mayoritariamente agraria, y los hijos eran utilizados como mano de obra. En España está presente desde el feudalismo hasta el primer tercio del siglo XIX.
 
@@ -130,7 +130,7 @@
 
 - **Minifundio:** propiedad agraria de pequeñas dimensiones utilizadas par la agricultura. En España durante el siglo XIX predominan por la vertiente mediterránea y el norte, debido a la mala orografía del país. Los señores contrataban a jornaleros para trabajar las tierras o las alquilaban.
 
-- **Indianas:** tela con estampado de colores que tenía gran éxito en Europa. Como su nombre indica proviene de la India. Antes de la industrialización española, Cataluña atraía inversores con la producción de estas peculiares telas
+- **Indianas:** tela con estampado de colores que tenía gran éxito en Europa. Como su nombre indica proviene de la India. Antes de la industrialización española, Cataluña atraía inversores con la producción de estas peculiares telas.
 
 - **Colonia industrial:** asentamiento de civiles cerca de un río para aprovechar la energía de agua producida por un salto de agua. Estaba constituida por distintos edificios: la mansión del propietario las fábricas y viviendas para los trabajadores y sus familias. Aparecen en España tras la industrialización de Cataluña.
 
@@ -138,13 +138,13 @@
 
 ***
 
-## UD 4
+### La transformación social del siglo XIX
 
 - **Estamentos:** sistema de organización característico del feudalismo, la población se dividía en 3 grupos: nobleza, clero y campesinado. Estos grupos o estamentos eran fijos, no podías cambiar de uno a otro. Además, el estamento de cada uno era determinado en el momento de nacimiento. Con la abolición del Antiguo Régimen los estamentos son remplazados por las clase sociales.
 
 - **Hidalgos:** miembros de la nobleza baja media que vivían gracias a la recaudación de impuestos, con la abolición del Antiguo Régimen  y la eliminación de todos los privilegios pasa a a integrarse en la clase media.
 
-- **Socialismo:** ideología política, económica y sociales buscan que el Estado controle la producción de bienes y servicios. Distinguimos dos corrientes: el Socialismo Utópico propuesto por Robert Owen y el Socialismo Científico o Marxismo de Karl Marx. Se trata de una ideología presente dentro de la AIT
+- **Socialismo:** ideología política, económica y sociales buscan que el Estado controle la producción de bienes y servicios. Distinguimos dos corrientes: el Socialismo Utópico propuesto por Robert Owen y el Socialismo Científico o Marxismo de Karl Marx. Se trata de una ideología presente dentro de la AIT.
 
 - **Anarquismo:** ideología iniciada por el filósofo Bakunnin que propone la abolición del estado y cualquier forma de gobierno o jerarquía. Además de proponer la cooperación voluntaria y la autogestión. Distinguimos distintas vertientes como el anarcocomunismo y el anarcosindicalismo. Se trata de una ideología recogida en la AIT.
 
@@ -157,7 +157,7 @@
 - **Sociedades de protección mutua:** organizaciones voluntarias conformadas por miembros del proletariado los cuales tenían que pagar una cuota mensual. Tenía como objetivo proporcionar dinero a los afiliados que no podían trabajar, ya sea por un despido o por estar enfermo.
 
 ***
-## UD 5
+### La Restauración: el regreso de la monarquía y el fin del imperio
 
 - **Caciques/Caciquismo:** individuos o familias que por poder económico o influencias políticas controlaban por orden del gobierno el sistema electoral ya sea motivando a los electores a votar a determinado partido político o amañando directamente las elecciones mediante "el pucherazo". Aparecen en España durante la Restauración (1874-1931).
 - **Pucherazo:** fraude electoral o manipulación que se realiza con el objetivo de que determinado partido gane las elecciones. Para ello hay distintas artimañas: comprar votos, eliminar urnas, votar por gente muerta... Durante la Restauración (1874-1931) los caciques lo utilizaban.
@@ -167,19 +167,19 @@
 
 - **Arancel Cánovas:** impuesto o carga fiscal sobre los productos que importaba Cuba que no fueran de España. Se trata de una medida proteccionista ya que elimina a toda la competencia. Esto molestaba mucho a Estados Unidos ya que no podía vender sus productos. Por esto durante la guerra Chiquita (1895-1898) intervino a favor de Cuba.
 
-***-
+***
 
-## UD6
+### La crisis de la Restauración, la Dictadura de Primo de Rivera
 
-- **Protectorado:** forma de gobierno de una colonia en la cual mantenían autonomía propia en el ámbito interior. Sin embargo, la política exterior era gestionada por el país colonizador. España después del tratado de 1912 y la Conferecia de Algeciras (1906) consigue un protectorado en Marruecos que tiene que gestionar conjuntamente con Francia
+- **Protectorado:** forma de gobierno de una colonia en la cual mantenían autonomía propia en el ámbito interior. Sin embargo, la política exterior era gestionada por el país colonizador. España después del tratado de 1912 y la Conferecia de Algeciras (1906) consigue un protectorado en Marruecos que tiene que gestionar conjuntamente con Francia.
 - **Regeneracionismo:** corriente ideológica impulsada por Joaquín Costa y otros autores que intentaban frenar el deterioro d España, después del desastre del 98 (la pérdida de las colonias). Se ubica a finales del siglo XIX y a principios del siglo XX, además la sustitución de Cánovas y Sagasta, por Maura y Canalejas, contribuyó ala regeneración del sistema político, ya que trataban de reducir el caciquismo.
 - **Cabilas:** tribus Berberes situadas en el norte de África. A principios del siglo XX, España tuvo un protectorado en Marruecos sonde las cabilas atacaban a las tropas españolas. El incidente más destacable fue la masacre del Barranco de Lobos.
-- **Estado de guerra:** situación excepcional recogida en la Constitución en la que un país entra en un conflicto bélico. En esta situación el Estado toma medidas especiales como restringir los derechos(por ejemplo el de reunión) y las libertades o la ampliación de los poderes y funciones del poder Ejecutivo y de los militares los cuales pueden realizar juicios militares. España durante la Semana Trágica (1909) entró en este estado
+- **Estado de guerra:** situación excepcional recogida en la Constitución en la que un país entra en un conflicto bélico. En esta situación el Estado toma medidas especiales como restringir los derechos(por ejemplo el de reunión) y las libertades o la ampliación de los poderes y funciones del poder Ejecutivo y de los militares los cuales pueden realizar juicios militares. España durante la Semana Trágica (1909) entró en este estado.
 - **CNT:** Confederación Nacional de Trabajadores, se trata de un sindicato de carácter Anarcosindicalista, por lo que trata de abolir el Estado y sus leyes. Aparece en España durante el primer tercio del siglo XX. Por ejemplo, durante la gran guerra realizó un congreso por la paz en El Ferrol.
 - **Pistolerismo:** pistoleros contratados por la patronal para luchar contra el sindicalismo. Asesinaban a los dirigentes obreros y a los sindicatos. Aparecen en España durante la Restauración (1874-1931), tras la crisis del 17, aparece la Federación Patronal que contratará a estos pistoleros. La situación empeorará drásticamente con la ley de fugas.
 - **Ley Marcial:** ley recogida en la Constitución, la cual en situaciones excepcionales como huelgas generales dota a los militares de una ampliación de sus poderes y funciones. Durante la Restauración (1874-1931) en la crisis de 1917 se aplicó la Ley Marcial.
-- **Golpe de Estado:** actor realizado por los militares dirigidos por uno de mayor rango que que mediante la fuerza consiguen realizar un cambio a nivel político aboliendo el gobierno actual e iniciando una dictadura. Durante el siglo XX destaca el Golpe de Estado de Miguel Primo de Rivera para evitar la difusión de los resultados del expediente Picasso
-- **Gobiernos de Concentración:** sistema de gobierno donde el gobierno integra diferentes miembros de diferentes partido para afrontar una situación de crisis. Por ejemplo, después del desastre de Annual, para hacer frente a las constantes insurrecciones se recurrió a este sistema de gobierno 
+- **Golpe de Estado:** actor realizado por los militares dirigidos por uno de mayor rango que que mediante la fuerza consiguen realizar un cambio a nivel político aboliendo el gobierno actual e iniciando una dictadura. Durante el siglo XX destaca el Golpe de Estado de Miguel Primo de Rivera para evitar la difusión de los resultados del expediente Picasso.
+- **Gobiernos de Concentración:** sistema de gobierno donde el gobierno integra diferentes miembros de diferentes partido para afrontar una situación de crisis. Por ejemplo, después del desastre de Annual, para hacer frente a las constantes insurrecciones se recurrió a este sistema de gobierno.
 
 Corporativismo
 Plebiscito
