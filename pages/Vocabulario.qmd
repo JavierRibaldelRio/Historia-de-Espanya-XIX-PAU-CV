@@ -192,9 +192,63 @@
 ### Otras
 - **Censo:** recuento de la población clasificados por su lugar de residencia. El censo tiene distintas utilidades, por ejemplo: tomar decisiones políticas en función del número de habitantes de una zona, gestionar la recaudación de impuestos, generar los distritos electorales en las elecciones...
 - **Gobierno Constitucional:** gobierno el cual está controlado por la Constitución, la máxima ley que establece que pueden hacer tanto el gobierno como los ciudadanos. Es una característica de la Restauración (1874-1931).
+
 ## Estudio estadístico
 
 Se ha realizado un conteo de palabras para determinar aquellas que han salido con más frecuencia. El estudio incluye desde la convocatoria de junio del 2010 hasta la de julio del 2024.
+
+| Palabra                      | Frecuencia |
+| ---------------------------- | ---------- |
+| Absolutismo                  | 5          |
+| Golpe de estado              | 4          |
+| Constitución                 | 3          |
+| Dictadura                    | 3          |
+| División de Poderes          | 3          |
+| Liberalismo                  | 3          |
+| Soberanía                    | 3          |
+| Soberanía Nacional           | 3          |
+| Amnistía                     | 2          |
+| Caciquismo                   | 2          |
+| Carlistas                    | 2          |
+| Censura                      | 2          |
+| Huelga General               | 2          |
+| Isabelinos                   | 2          |
+| Ley Sálica                   | 2          |
+| Pronunciamiento              | 2          |
+| Sufragio Censatario          | 2          |
+| Abdicación                   | 1          |
+| Afrancesados                 | 1          |
+| Anarquismo                   | 1          |
+| Bicameralismo                | 1          |
+| Bienes comunales             | 1          |
+| Cambio de Régimen            | 1          |
+| Censo                        | 1          |
+| Cien mil hijos de San Luis   | 1          |
+| Ciudadano                    | 1          |
+| Confesionalidad              | 1          |
+| Democracia                   | 1          |
+| Desamortización              | 1          |
+| Directorio militar           | 1          |
+| Gobierno Consitucional       | 1          |
+| Guerrillas                   | 1          |
+| Inquisición                  | 1          |
+| Laicismo                     | 1          |
+| Libertad de imprenta         | 1          |
+| Librecambismo                | 1          |
+| Moderados                    | 1          |
+| Monarquía parlamentaria      | 1          |
+| Progresistas                 | 1          |
+| Proteccionismo               | 1          |
+| Reaccionario                 | 1          |
+| Reforma Agraria              | 1          |
+| República Federal            | 1          |
+| Señorío                      | 1          |
+| Soberanía Compartida         | 1          |
+| Socialismo                   | 1          |
+| Sociedad Patriótica          | 1          |
+| Sufragio Universal Masculino | 1          |
+| Transición Demográfica       | 1          |
+| Turnismo                     | 1          |
 
 ## Palabras *Top 20*
 
