@@ -190,9 +190,9 @@
     - La de Franco se carcteriza por la creación de el "Movimiento" y se basa en el nacismo.
 
 ### Otras
-- **
-
-## Estudio estádistico
+- **Censo:** recuento de la población clasificados por su lugar de residencia. El censo tiene distintas utilidades, por ejemplo: tomar decisiones políticas en función del número de habitantes de una zona, gestionar la recaudación de impuestos, generar los distritos electorales en las elecciones...
+- **Gobierno Constitucional:** gobierno el cual está controlado por la Constitución, la máxima ley que establece que pueden hacer tanto el gobierno como los ciudadanos. Es una característica de la Restauración (1874-1931).
+## Estudio estadístico
 
 Se ha realizado un conteo de palabras para determinar aquellas que han salido con más frecuencia. El estudio incluye desde la convocatoria de junio del 2010 hasta la de julio del 2024.
 
