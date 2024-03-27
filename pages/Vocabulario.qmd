@@ -190,8 +190,17 @@
     - La de Franco se carcteriza por la creación de el "Movimiento" y se basa en el nacismo.
 
 ### Otras
+- **Bienes comunales:** conjunto de tierras que pertenecen a un ayuntamiento las cuales son de uso común; es decir para todos los habitantes de un municipio, por emeplo las montañas boscosas sin explotar. En la desamortización de Madoz del Bienio Progresista (1854-1856) estas tierras también son expropiadas.
 - **Censo:** recuento de la población clasificados por su lugar de residencia. El censo tiene distintas utilidades, por ejemplo: tomar decisiones políticas en función del número de habitantes de una zona, gestionar la recaudación de impuestos, generar los distritos electorales en las elecciones...
+- **Censura:** {orientada al s.XIX} acto de suprimir deliveradamente la difusión de informació o ideas. Este control es ejercido por varios organismos, en España durante el siglo XIX era ejercida por la Monarquía y por la Iglesia a través de la Inquisición para evitar la difusión de las ideas ilustradas, republicanas o liberales y/o anticlericales.
+- **Confesionalidad:** caracter religioso de una religión como oficial y se compromete a respaldarla. En España la religión oficial siempre ha sido el catolicismo. La iglesia cobraba el diezmo, pero asumía xiertas competencias del ámbito educativo y sanitario. Además también ejercía la censura a través de la Inquisición.
+- **Directorio Militar:** periodo de la dictadura miltar de Miguel Primo de Rivera comprendido entre 1923 y 1925. Se caracteriza por el orden público generado por medidas autoritarias y represivas como: la supresión de Cortes y Constitución, ilegalizaxión de isndicatos y partidos políticos y la supresión de los ayuntamientos.
+- **Libertad de imprenta:** libertad de imprimir y distribuir información sin censura por parte del gobierno o la Inquisición. En España aparece por primera vez en la Constitució de 1812 redacta en las Cortes de Cadiz.
 - **Gobierno Constitucional:** gobierno el cual está controlado por la Constitución, la máxima ley que establece que pueden hacer tanto el gobierno como los ciudadanos. Es una característica de la Restauración (1874-1931).
+- **Reaccionario:** {relativo al carlismo} grupos de personas los cuales frente a una ley o propuesta mantienen una actitud de rechazo para evitar su ejecucción. En España durante la 1ª Guerra Carlista (1833-1840) los reaccionarios buscabal la restuaración de los fueros y que el trono fuera heredado por Carlos Mªisidrto, también se les conoce como Carlistas.
+- **Reforma agraria:** conjunto de medidas implementadas por el gobierno que tiene como objetivo redistribuir las tierras y los recursos agricolas. Durante la primera mitad del siglo XIX español hubo bastnates reformas agraria. Destacan las de los gobiernos liberales de Mendizábal y Calatrava durante la Regencia de MªCristina(1833-1840).
+- **Soberanía Compartida:** carcterística de un Estado recogida en la Constitución en el cual su máxima autoridad o soberanía recae sobre dos o más organismos. Durante la Restauración (1833-1840), la soberanía era compartid aentre el monarca (que tenía el papel de árbitro político) y las Cortes.
+- **Sufragio Universal Masculino:** sistema de votación recogido en la Constitución en el cual pueden votar todos los hombres sin importar sus condiciones económicas o sociales siempre que superen la mayoría de edad. Se trata de una medida progresista. En el siglo XIX español aparece por primera vez en el Sexenio Democrático (1868-1874) y en el Restauración (1874-1931) aparece en 1890.
 
 ## Estudio estadístico
 
@@ -250,6 +259,6 @@ Se ha realizado un conteo de palabras para determinar aquellas que han salido co
 | Transición Demográfica       | 1          |
 | Turnismo                     | 1          |
 
-## Palabras *Top 20*
+## Palabras *Top 25*
 
-Con el objetivo de preparar la PAU, a continuación se encuentran recopiladas las palabras que considero que es altamente probable que pregunten o que vuelvan a salir
+Con el objetivo de preparar la PAU, a continuación se encuentran recopiladas por orden alfabético las palabras que considero que es altamente probable que pregunten o que vuelvan a salir.
