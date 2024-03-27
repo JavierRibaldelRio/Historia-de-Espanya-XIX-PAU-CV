@@ -1,14 +1,19 @@
 project: 
   type: book
+
   preview: 
     browser: false
     port: 3000
 
 
 book:
-  title: "Historia de España S.XIX PAU CV"
+  title: "Historia de España S.XIX"
+  subtitle: "Prueba de Acceso Universidad Comunidad Valenciana"
   author: "Javier Ribal del Río"
+  license: MIT
+  downloads: [pdf, epub]
   sidebar: 
+    title: "Historia de España S.XIX PAU CV"
     tools: 
       - icon: github
         href: https://github.com/JavierRibaldelRio
@@ -17,6 +22,7 @@ book:
         href: https://www.linkedin.com/in/javier-ribal/
         aria-label: LinkedIn
   date: "2024"
+  date-format: "YYYY"
   language: "es"
   image: cover.png
   cover-image: cover.png
@@ -30,10 +36,10 @@ book:
     - pages/Unidades/Inicio-Restauracion.qmd
     - pages/Unidades/Fin-Restauracion.qmd
     - pages/Unidades/Sociedad-XX.qmd
+    - pages/Esquemas.qmd
     - pages/Vocabulario.qmd
     - pages/Preguntas-Transversales.qmd
-
-
+  
 format:
   html:
     toc-depth: 4
