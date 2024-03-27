@@ -1,4 +1,4 @@
-# Vocabulario
+# Vocabulario (Pregunta 3)
 
 ## Definiciones
 
@@ -57,7 +57,7 @@
 
 - **Cien mil hijos de San Luis:** ejercito francés enviado por la Santa Alianza que tenía como objetivo poner fin al régimen constitucional establecido en España tras el pronunciamiento de Riego (1820) y establecer a Fernando como monarca absolutista. Entraron en España en (1823) dirigidos por el duque de Angulema.
 
-- **Ley Sálica:** ley que elimina el derecho al trono de las mujeres, en España el primero en implantarla fuer Felipe V. Fernando VII influido por su esposa promulga la pragmática sanción para garantizar que su hija Isabel II acceda al trono
+- **Ley Sálica:** ley que elimina el derecho al trono de las mujeres, en España el primero en implantarla fuer Felipe V. Fernando VII influido por su esposa promulga la pragmática sanción para garantizar que su hija Isabel II acceda al trono.
 
 - **Pragmática Sanción:** ley promulgada por Fernando VII por influencia de su esposa Mª Cristina, para abolir la ley Sálica, la cual impedía a su hija Isabel II reinar. Esta causa que haya gente que no reconozca a Isabel II como reina sino a Carlos Mª Isidro (hermano de Fernando VII) como monarca, lo que desencadena el Carlismo.
 
@@ -187,7 +187,7 @@
 
 - **Dictadura:** sistema de gobierno impuesto tras un golpe de estado donde todos los poderes del estado recaen sobre el dictaror. Durante las dictaduras, la constitución se suprime, así como otros derechos y libertades de los ciudadanos, también se caracterizan por medidas autoritarias o autárquicas. España a sufrido dos dictaduras la de Primo de Rivera (1923-1930) y la de Francisco Franco. 
     - La de Primo de Rivera se caracteriza por el corporativismo y se basa en el fascismo.
-    - La de Franco se carcteriza por la creación de el "Movimiento" y se basa en el nacismo.
+    - La de Franco se caracteriza por la creación del "Movimiento" y se basa en el nacismo.
 
 ### Otras
 - **Bienes comunales:** conjunto de tierras que pertenecen a un ayuntamiento las cuales son de uso común; es decir para todos los habitantes de un municipio, por emeplo las montañas boscosas sin explotar. En la desamortización de Madoz del Bienio Progresista (1854-1856) estas tierras también son expropiadas.
@@ -262,3 +262,54 @@ Se ha realizado un conteo de palabras para determinar aquellas que han salido co
 ## Palabras *Top 25*
 
 Con el objetivo de preparar la PAU, a continuación se encuentran recopiladas por orden alfabético las palabras que considero que es altamente probable que pregunten o que vuelvan a salir.
+
+- **Absolutismo:**  sistema social, económico y político utilizado en Europa antes del siglo XVIII. Se caracteriza por centralizar todos los poderes en la monarquía que es elegida por la iglesia a través del derecho divino. La sociedad se encuentra dividida en estamentos siendo el clero y la nobleza los estamentos privilegiados. Mientras que económicamente predomina la economía de subsistencia basada en la agricultura y la ganadería.
+- **Amnistía:** concepto legal que hace referencia al perdón de las sanciones a quienes han cometido algún delito. Por ejemplo, al inicio del Trienio Liberal tras el pronunciamiento de Riego se proclama una amnistía por la cual lo liberales y los afrancesados pueden volver a España.
+- **Anarquismo:** ideología iniciada por el filósofo Bakunnin que propone la abolición del estado y cualquier forma de gobierno o jerarquía. Además de proponer la cooperación voluntaria y la autogestión. Distinguimos distintas vertientes como el anarcocomunismo y el anarcosindicalismo. Se trata de una ideología recogida en la AIT.
+
+- **Caciques/Caciquismo:** individuos o familias que por poder económico o influencias políticas controlaban por orden del gobierno el sistema electoral ya sea motivando a los electores a votar a determinado partido político o amañando directamente las elecciones mediante "el pucherazo". Aparecen en España durante la Restauración (1874-1931).
+
+- **Carlismo:** movimiento político español que promueve a Carlos María Isidro y su descendencia como monarcas de España.Estaban enfrentados contra los cristinos o isabelinos porque Fernando VII había promulgado la Pragmática Sanción para abolir la ley Sálica y permitir que Isabel II reine. Mantienen una ideología conservadora y su lema es: "Dios, Patria, Rey/Fueros".
+
+- **Censura:** {orientada al s.XIX} acto de suprimir deliveradamente la difusión de informació o ideas. Este control es ejercido por varios organismos, en España durante el siglo XIX era ejercida por la Monarquía y por la Iglesia a través de la Inquisición para evitar la difusión de las ideas ilustradas, republicanas o liberales y/o anticlericales.
+
+- **Constitución:** Ley suprema o carta magna, es un documento que establece el marco legislativo de un país, de ella dependen del resto de leyes. Incluye también los derechos, deberes y libertades de los ciudadanos, los poderes del gobierno, la separación de poderes (Judicial, Legislativo y Ejecutivo), la estructura del gobierno (república o monarquía) o pautas de actuación frente a diferentes situaciones.
+
+- **Democracia:** sistema político en el cual los ciudadanos ejercen la soberanía nacional mediante las elecciones. Se caracteriza por el respeto de los derechos humanos, el estado de derecho, la separación de poderes, la igualdad ante la ley políticos hacia el pueblo. Las distintas ideologías están representadas por los diferentes partidos políticos. A partir de mediados del siglo XIX se empieza a expandir por Europa.
+
+- **Dictadura:** sistema de gobierno impuesto tras un golpe de estado donde todos los poderes del estado recaen sobre el dictaror. Durante las dictaduras, la constitución se suprime, así como otros derechos y libertades de los ciudadanos, también se caracterizan por medidas autoritarias o autárquicas. España a sufrido dos dictaduras la de Primo de Rivera (1923-1930) y la de Francisco Franco. 
+    - La de Primo de Rivera se caracteriza por el corporativismo y se basa en el fascismo.
+    - La de Franco se caracteriza por la creación del "Movimiento" y se basa en el nacismo.
+
+- **División de Poderes:** principio que implica dividir las funciones del estado en tres poderes independientes. El poder Ejecutivo implementa las leyes y políticas, el poder Legislativo redacta y aprueba leyes, esta representado por las cortes. Mientras que el poder Judicial interpreta y aplica las leyes, a través de los jueces. La separación de poderes fue propuesta por Montesquieu y está recogida en la constitución.
+
+- **Golpe de Estado:** actor realizado por los militares dirigidos por uno de mayor rango que que mediante la fuerza consiguen realizar un cambio a nivel político aboliendo el gobierno actual e iniciando una dictadura. Durante el siglo XX destaca el Golpe de Estado de Miguel Primo de Rivera para evitar la difusión de los resultados del expediente Picasso.
+
+- **Huelga general:** paro organizado por los trabajadores de todos los sectores, de esta forma todos los trabajadores presionan al gobierno para realizar algún cambio ya sea de condiciones laborales o salario. Suelen ser convocadas por las asociaciones de los trabajadores.
+
+ - **Isabelinos:** también conocidos como cristinos, movimiento político que promovía a Isabel II como heredera al trono. Estaban enfrentados con los Carlistas porque Fernando VII promulgó la Pragmática Sanción para abolir la ley Sálica, la cual inhabilitaba a Isabel II como candidata al trono. Mantiene una ideología moderada liberal.
+
+ - **Ley Sálica:** ley que elimina el derecho al trono de las mujeres, en España el primero en implantarla fuer Felipe V. Fernando VII influido por su esposa promulga la pragmática sanción para garantizar que su hija Isabel II acceda al trono
+
+- **Liberalismo:** ideología política y económica que promueve la libertad individual, el estado de derecho, y el laicismo como pilares fundamentales para la creación de una sociedad. La economía del régimen liberal es librecambista y esta basada en la lay de la oferta y la demanda. Mientras que en el ámbito social promueve la igualdad de oportunidades entre los ciudadanos aunque aparecen las clases sociales. Los ilustrados promueven el liberalismo en contra del Antiguo Régimen. Fue expandido por Europa gracias a la Revolución Francesa.
+
+- **Monarquía parlamentaria o constitucional:** sistema político donde el monarca es el jefe del estado, el cual esta sometido a la Constitución vigente y al parlamento (poder Legislativo). El monarca pasa a tomar un papel ceremonial, representativo o testimonial. Ya que el poder de tomar decisiones políticas recae sobre el presidente y el gobierno (poder Ejecutivo).
+
+
+- **Pragmática Sanción:** ley promulgada por Fernando VII por influencia de su esposa Mª Cristina, para abolir la ley Sálica, la cual impedía a su hija Isabel II reinar. Esta causa que haya gente que no reconozca a Isabel II como reina sino a Carlos Mª Isidro (hermano de Fernando VII) como monarca, lo que desencadena el Carlismo.
+
+- **Pronunciamiento:** acto de militares dirigidos por un alto cargo que tiene como objetivo provocar un cambio político, ya sea un cambio de gobierno o incluso instaurar una constitución. Durante el siglo XIX en España hubo muchos pronunciamientos, sin embargo, la gran inmensa mayoría fracasaron. Mientras que unos pocos como el de Riego en 1820 tuvieron éxito.
+
+- **República:** forma de gobierno donde el poder reside en el pueblo y en sus representantes elegidos, en lugar de estar en un monarca hereditario. En una república, el jefe de Estado y otros funcionarios son elegidos por su pueblo, el país es gobernado por leyes recogidas en la constitución. Además se rigen por la soberanía popular. A partir, de la revolución francesa se extiende por Europa.
+
+- **Soberanía:** autoridad máxima dentro de un Estado; es decir, sobre quien recae el poder del estado. Distinguimos distintos tipos como: la Nacional, la Compartida o la Popular. Se encuentra especificada en la Constitución vigente.
+
+- **Soberanía Nacional:** concepto ilustrado definido por Rousseau  que dicta que el poder de la nación recae sobre los ciudadanos los cuales a través del voto delegan su poder en los representantes de las Cortes (poder).
+
+- **Socialismo:** ideología política, económica y sociales buscan que el Estado controle la producción de bienes y servicios. Distinguimos dos corrientes: el Socialismo Utópico propuesto por Robert Owen y el Socialismo Científico o Marxismo de Karl Marx. Se trata de una ideología presente dentro de la AIT.
+
+- **Sufragio censatario:** sistema  de votación en el cual únicamente pueden votar aquellos que  cumplan determinadas condiciones económicas, sociales o de formación. Durante la Década Moderada (1845-1854), el sufragio era censatario e inferior al (1%), lo cual causaba que sólo pudieran votar la iglesia, el ejercito y grandes contribuyentes.
+
+- **Sufragio Universal Masculino:** sistema de votación recogido en la Constitución en el cual pueden votar todos los hombres sin importar sus condiciones económicas o sociales siempre que superen la mayoría de edad. Se trata de una medida progresista. En el siglo XIX español aparece por primera vez en el Sexenio Democrático (1868-1874) y en el Restauración (1874-1931) aparece en 1890.
+
+- **Turnismo:** sistema de gobierno utilizas en la Restauración (1873-1931) diseñado por Cánovas, basándose en el de Gran Bretaña, que tiene como objetivo alcanzar la estabilidad política. Se basa en cuatro pilares: el rey como cabeza simbólica del ejército (para evitar pronunciamientos), los partidos dinásticos (el liberal y el conservador, los cuales protegían el sistema), el rey como árbitro político (decide cuando gobierna cada partido) y la Constitución de 1876.
