@@ -28,7 +28,6 @@ book:
   cover-image: cover.png
   chapters:
     - index.qmd
-    - intro.qmd
     - pages/Unidades/Fernando.qmd
     - pages/Unidades/MCristina.qmd
     - pages/Unidades/Industria.qmd
@@ -37,6 +36,7 @@ book:
     - pages/Unidades/Fin-Restauracion.qmd
     - pages/Unidades/Sociedad-XX.qmd
     - pages/Esquemas.qmd
+    - pages/Comentario-Texto.qmd
     - pages/Vocabulario.qmd
     - pages/Preguntas-Transversales.qmd
   
