@@ -24,9 +24,10 @@ book:
   date: "2024"
   date-format: "YYYY"
   language: "es"
-  image: cover.png
-  cover-image: cover.png
-  chapters:
+  image: Portada.png
+  cover-image: Portada.png
+  favicon: Portada.png
+  chapters: 
     - index.qmd
     - pages/Unidades/Fernando.qmd
     - pages/Unidades/MCristina.qmd
@@ -43,6 +44,9 @@ book:
 format:
   html:
     toc-depth: 4
+    language: 
+      title-block-author-single: "Autor"
+      title-block-published: "Año de publicación"
     theme: cosmo
   pdf:  
     documentclass: scrreprt
