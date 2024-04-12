@@ -1,7 +1,20 @@
-# Preface   
-This is a Quarto book.
+# Introducción {.unnumbered}
+---
+toc: false
+---
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Hola: 
 
+Esto es un *llibret* o cuadernillo que agrupa todos los apuntes que generé en la asignatura de historia de España para preparar el bloque del siglo XIX en la [PAU](https://ceice.gva.es/es/web/universidad/informacion-pau) de la comunidad Valenciana en el curso escolar 2023-24.
 
-\leftarrow
+El cuadernillo cuenta con varios apartados:
+
+- Los primeros siete puntos son resumenes punto por punto de la primera edición del 27 de abril del libro [*Historia de España(Comunidad en Red)*](https://vicensvives.com/es/libro-de-texto/bachillerato/historia-de-espana-comunidad-en-red) de la Editorial Vicens Vives con ISBN: 9788468294285;
+- El siguiente punto es una recopilación de mis esquemas (a mano);
+- Los últimos puntos estan orientados a la preparación de la PAU de la Comunidad Valenciana, centrados específicamente en una o dos preguntas por punto.
+
+Muchas gracias,
+
+Monografía Fernando VII:
+
+<a href="https://commons.wikimedia.org/wiki/File:Royal_Monogram_of_King_Fernando_VII_of_Spain.svg">Glasshouse This vector image includes elements that have been taken or adapted from this file: Heraldic Royal Crown of Spain.svg (by Heralder).</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
