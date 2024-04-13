@@ -24,9 +24,9 @@ book:
   date: "2024"
   date-format: "YYYY"
   language: "es"
-  image: Portada.png
-  cover-image: Portada.png
-  favicon: Portada.png
+  image: /Pictures/Portada.png
+  cover-image: /Pictures/Portada.png
+  favicon: /Pictures/Portada.png
   chapters: 
     - index.qmd
     - pages/Unidades/Fernando.qmd
@@ -56,12 +56,17 @@ format:
     geometry: "top=2.5cm, bottom=2.5cm"
     lang: "es-ES"
     df-print: default
+    title: "Historia de España S.XIX"
+    subtitle: "Prueba de Acceso a la Universidad Comunidad Valenciana"
     metadata:
       title-meta: "Historia de España S.XIX PAU CV"
       author-meta: "Javier Ribal del Río"         
     include-in-header: 
       text: |
         \usepackage{scrlayer-scrpage}
+        \usepackage[cc]{titlepic}
+        \usepackage{graphicx}
+        \titlepic{\includegraphics[width=\textwidth]{/Pictures/Portada.png}}
         \clearpairofpagestyles
         \automark[chapter]{chapter} % Activa la marcación automática del capítulo  
         \ihead{\leftmark}  
