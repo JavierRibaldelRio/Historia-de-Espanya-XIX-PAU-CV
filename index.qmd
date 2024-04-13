@@ -1,7 +1,4 @@
 # Introducción {.unnumbered}
----
-toc: false
----
 
 Hola: 
 
@@ -15,6 +12,6 @@ El cuadernillo cuenta con varios apartados:
 
 Muchas gracias,
 
-Monografía Fernando VII:
+Monografía Fernando VII (portada):
 
 <a href="https://commons.wikimedia.org/wiki/File:Royal_Monogram_of_King_Fernando_VII_of_Spain.svg">Glasshouse This vector image includes elements that have been taken or adapted from this file: Heraldic Royal Crown of Spain.svg (by Heralder).</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
