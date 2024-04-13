@@ -24,9 +24,9 @@ book:
   date: "2024"
   date-format: "YYYY"
   language: "es"
-  image: /Pictures/Portada.png
-  cover-image: /Pictures/Portada.png
-  favicon: /Pictures/Portada.png
+  image: /pictures/Portada.png
+  cover-image: /pictures/Portada.png
+  favicon: /pictures/Portada.png
   chapters: 
     - index.qmd
     - pages/Unidades/Fernando.qmd
@@ -40,6 +40,7 @@ book:
     - pages/Comentario-Texto.qmd
     - pages/Vocabulario.qmd
     - pages/Preguntas-Transversales.qmd
+    - pages/Lineas-del-tiempo.qmd
   
 format:
   html:
@@ -66,7 +67,7 @@ format:
         \usepackage{scrlayer-scrpage}
         \usepackage[cc]{titlepic}
         \usepackage{graphicx}
-        \titlepic{\includegraphics[width=\textwidth]{/Pictures/Portada.png}}
+        \titlepic{\includegraphics[width=\textwidth]{pictures/Portada.png}}
         \clearpairofpagestyles
         \automark[chapter]{chapter} % Activa la marcación automática del capítulo  
         \ihead{\leftmark}  
