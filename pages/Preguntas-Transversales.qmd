@@ -134,7 +134,28 @@ Finalmente, tenemos el golpe de Estado de Primo de Rivera en 1923, acabar con el
 | 9 | Grito de Baire | 1895 | Paz de Zanjón |
 | 10 | Golpe de Estado de Primo de Rivera | 1923 | Acabar con el sistema de la Restauración |
 
+## Regencias
+### Respuesta
+
+Una regencia es un periodo en el que el papel del rey es ejecutado por un sustituto denominado regente, ya sea porque el rey esté incapacitado para reinar por ser todavía menor de edad o por enfermadad, o simplemente por su ausencia física. En España ha habido varias regencias, acontinuación las vamos a exponer brevemente:
+
+En primer lugar, duante la guerra de Independencia (1808-1812), ante la ausencia del monarca Fernando VII que estaba cautivo en Bayona, a partir de 1810 se inicia la regencia del obsipo Orense, que sustituye a a la junta suprema central. Durante su regencia el obispo convocó las Cortes de Cádiz que promulgaron la Constitución de 1812. La regencia concluye en 1814 con la firma del tratado de Valençay que termina con la guerra y posibilita el regreso de Fernando VII.
+
+En segundo lugar, la regencia de María Cristina de Borbón (1833-1840). La regencia se incia tras la muerte de Fernando VII ya que su hija Isabel II todavía era menor de edad y no podía heredar la corona. Este periodo está marcado por los constantes cambios de gobierno y por la liberalización de España sobre todo por la reforma agrária y las medidas liberales de los gobiernos de Mendizábal y Calatrava. La regencia concluye en 1840  los liberales progresistas liderados por el general Espartero se oponen a las medidas moderadas del gobierno, sobretodo a la ley de ayuntamientos, la cual le confería a la corona el poder de elegir al alcalde de cada municipio.
+
+En tercer lugar, la regencia de Espartero (1840-1843). Tras el fin de la regencia de Mª Cristian como Isabel II seguia siendo menor de edad las Cortes eligen a Espartero como regente, este periodo está marcado por las medidas liberales progresisitas. Sin embargo la regencia concluye abruptamente cuando Espartero bombardea Barcelona para hacer frente al las insurrecciones causadas por el arancel librecambista. Tras estos las cortes deciden adelantar la mayoría de edad de Isabel II
+
+En cuarto lugar, la regencia de Serrano después de la Gloriosa Revolución de 1868. Tras el pronunciamiento de la Gloriosa Revolución de Topete, Serrano y Prim, se establece un gobierno provisional, el cual pone a Serrano como regente ante la ausencia de Monarca. Este periodo está caracterizado por las medidas democráticas recogidas en la Constitución de 1869 como por ejemplo la Monarquía Parlamentaria o el sufragio universal masculino. La regencia concluye cuando Amadeo I es nombrado monarca.
+
+Por último durante la Restauración tenemos la regencia de María Cristina de Habsburgo (1885-1902). En 1885 muere Alfonso XII y como Alfonso XIII todavía es menor de edad, entonces su madre Maria Cristiana pasa a ser la regente. Esto supuso un duro golpe para el sistema Turnista, tras esto se firma el tratado del Pardo en el cual el partido Dinástico y el partido Liberal se comprometen a garantizar la supervivencia del sistema turnista.
 
 
+### Tabla Resumen
 
-
+| Regencia                                      | Fecha             |
+|-----------------------------------------------|-------------------|
+| Guerra de Independencia (Obispo Orense)      | 1810-1814         |
+| María Cristina de Borbón                     | 1833-1840         |
+| Baldomero Espartero                          | 1840-1843         |
+| Serrano (Gloriosa Revolución)                | 1868-1870         |
+| María Cristina de Habsburgo           | 1885-1902         |
