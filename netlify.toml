@@ -1,6 +1,2 @@
-[build]
-  publish = "public"
-  command = "quarto install tinytex && quarto render"
-
 [[plugins]]
-  package = "@quarto/netlify-plugin-quarto"
+package = "@quarto/netlify-plugin-quarto"
