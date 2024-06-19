@@ -5,7 +5,6 @@ project:
     browser: false
     port: 3000
 
-
 book:
   title: "Historia de España S.XIX"
   subtitle: "Prueba de Acceso Universidad Comunidad Valenciana"
@@ -84,5 +83,3 @@ format:
         \cfoot[\pagemark]{ Historia de España s.XIX PAU Comunidad Valenciana \quad \quad Página: \pagemark. }
         \pagestyle{scrheadings}
     
-   
-
