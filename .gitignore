@@ -1,2 +1,4 @@
 /.quarto/
 _book
+/_site/
+_publish.yml
