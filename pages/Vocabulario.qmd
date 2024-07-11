@@ -188,12 +188,12 @@ Se ha realizado un conteo de palabras para determinar aquellas que han salido co
 
 | Palabra                      | Frecuencia |
 | ---------------------------- | ---------- |
-| Absolutismo                  | 5          |
+| Absolutismo                  | 6          |
 | Golpe de Estado              | 4          |
+| Liberalismo                  | 4          |
 | Constitución                 | 3          |
 | Dictadura                    | 3          |
 | División de Poderes          | 3          |
-| Liberalismo                  | 3          |
 | Soberanía                    | 3          |
 | Soberanía Nacional           | 3          |
 | Amnistía                     | 2          |
@@ -222,9 +222,11 @@ Se ha realizado un conteo de palabras para determinar aquellas que han salido co
 | Guerrillas                   | 1          |
 | Inquisición                  | 1          |
 | Laicismo                     | 1          |
+| Legitimismo                  | 1          |
 | Libertad de Imprenta         | 1          |
 | Librecambismo                | 1          |
 | Moderados                    | 1          |
+| Monarquía                    | 1          |
 | Monarquía Parlamentaria      | 1          |
 | Progresistas                 | 1          |
 | Proteccionismo               | 1          |
