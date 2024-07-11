@@ -1,26 +1,30 @@
+Aquí tienes el texto corregido con las negritas y tachones adicionales según lo solicitado:
+
+---
+
 # La transformación industrial y agraria del s.XIX
 
 ## Modernización demográfica del siglo XIX
 
 ### La lenta transición demográfica
 
-Pasamos de **10,5 millones a 18,6 millones**, como causa del lento descenso de **Mortalidad ↓↓**,  por la **mejora dieta**, la **expansión de cultivos** (Patata y Maíz), la **ligera mejora de la higiene**. 
+Pasamos de **10,5 millones a 18,6 millones**, como causa del lento descenso de **Mortalidad ↓↓**, por la **mejora dieta**, la **expansión de cultivos** (Patata y Maíz), la **ligera mejora de la higiene**.
 
-La esperanza media de **España** es de **35** años, mientras que la de Europa alrededor de 45 años. La **mortalidad** sigue siento alta por las **continuas guerras**, **crisis de subsistencia** (12 en todo el siglo) y la **mortalidad infantil**.  Además la elevada **Natalidad ↑↑**, ya que los hijos aportaban ingresos **economía agraria**.
+La esperanza media de **España** es de **35** años, mientras que la de Europa alrededor de 45 años. La **mortalidad** sigue siento alta por las **continuas guerras**, **crisis de subsistencia** (12 en todo el siglo) y la **mortalidad infantil**. Además la elevada **Natalidad ↑↑**, ya que los hijos aportaban ingresos a la **economía agraria**.
 
-Crecimiento en **Levante**, **País Vasco** y **Canarias**
+Crecimiento en **Levante**, **País Vasco** y **Canarias**.
 
 ### Éxodo rural y crecimiento urbano
 
-Como consecuencia de: ~~régimen señorial~~, la reforma agraria liberal, **mejora del transporte** y expectativas de la ciudad, inician los movimientos del **campo a la ciudad**. 
+Como consecuencia del ~~régimen señorial~~, la reforma agraria liberal, **mejora del transporte** y expectativas de la ciudad, inician los movimientos del **campo a la ciudad**.
 
-En 1900, las **capitales** de **provincia** ya albergaban el **16% de la población**. **Cataluña y País Vasco**, demandan trabajadores, mientras que **Madrid**, atraía población por papel de **centro político y administrativo**.
+En 1900, las **capitales** de **provincia** ya albergaban el **16% de la población**. **Cataluña y País Vasco**, demandan trabajadores, mientras que **Madrid**, atraía población por su papel de **centro político y administrativo**.
 
-Algunas ciudades, demuelen las ~~murallas medievales~~  y ampliación con **planes de reforma urbana**.
+Algunas ciudades demuelen las ~~murallas medievales~~ y ampliación con **planes de reforma urbana**.
 
 ### Hacer las Américas
 
-**Migración transoceánica** de **Galicia, Cantabria, Asturias (focos de emisión).** El gobierno la intenta **limitar**. Las principales migraciones fueron hacía **Argentina y México**, aunque también hubo hacía Argelia y Túnez.
+**Migración transoceánica** de **Galicia, Cantabria, Asturias** (focos de emisión). El gobierno la intenta **limitar**. Las principales migraciones fueron hacia **Argentina y México**, aunque también hubo hacia Argelia y Túnez.
 
 Además aparecen los **Indianos** que iban a conseguir fortuna y después volvían a España.
 
@@ -32,48 +36,49 @@ Además aparecen los **Indianos** que iban a conseguir fortuna y después volví
 
 Se produce la **reforma agraria liberal** que trata de acabar con el ~~Antiguo Régimen~~ y fomentar el desarrollo de la propiedad privada. Las medidas que ésta contenía era: abolición del **~~régimen Señorial~~**, la desvinculación de la tierra (**~~mayorazgos~~**), abolición de la **~~Mesta~~** y **desamortización**, como consecuencia esta última desaparecen los montes y pastos comunales (1855 Desamortización de Madoz).
 
-Las tierras pasan a ser una *mercancía* que puede ser vendida libremente. Los nobles transforman sus  señoríos en tierras, los campesinos se transforman en **arrendatarios** y en **jornaleros**.
+Las tierras pasan a ser una **mercancía** que puede ser vendida libremente. Los nobles transforman sus señoríos en tierras, los campesinos se transforman en **arrendatarios** y en **jornaleros**.
 
 La desamortización no tuvo el efecto deseado, si que obtuvieron dinero con la venta, pero **no se modernizaron las técnicas agrarias**, además la desaparición de ~~tierras comunales~~ endurece las condiciones del campesinado.
 
-En el Sur de España, la propiedad es concentrada únicamente por burguesía y nobleza, lo cual causa el **hambre de tierras**, que son revueltas que buscan un mejor reparto de tierras.
+En el Sur de España, la propiedad es concentrada únicamente por **burguesía** y **nobleza**, lo cual causa el **hambre de tierras**, que son revueltas que buscan un mejor reparto de tierras.
 
 ### Aumento de la Producción y baja productividad
 
-Durante el siglo XIX pasamos de **10 a 16 millones de Ha cultivadas**. Se expande el cereal (80%) , sobretodo del **trigo y patata**.
+Durante el siglo XIX pasamos de **10 a 16 millones de Ha cultivadas**. Se expande el cereal (80%), especialmente del **trigo y patata**.
 
-El sector **vinícola**, se ve **favorecido** por una **plaga** en **Francia**, la cual comenzó a **exportar** uva a **España**. En **Andalucía venta de aceite de oliva**, mientras que en **Levante** la venta de **cítricos** a Francia y Gran Bretaña.
+El sector **vinícola** se ve **favorecido** por una **plaga** en **Francia**, la cual comenzó a **exportar** uva a **España**. En **Andalucía venta de aceite de oliva**, mientras que en **Levante** la venta de **cítricos** a Francia y Gran Bretaña.
 
-Mientras que la **ganadería**, **retrocede** por la **supresión de la Mesta** y las **nuevas rotulaciones**.
+Mientras que la **ganadería** **retrocede** por la **supresión de la Mesta** y las **nuevas rotulaciones**.
 
-A pesar del incremento de la **producción ↑↑**, esto **no** implica **modernización de las técnicas de cultivo**, las cuales estaban **retrasadas** respecto al resto de **Europa**. 
+A pesar del incremento de la **producción ↑↑**, esto **no** implica **modernización de las técnicas de cultivo**, las cuales estaban **retrasadas** respecto al resto de **Europa**.
 
-Además la **orografía** (perfil topográfico) y la **escasez hídrica** no contribuyen
+Además la **orografía** y la **escasez hídrica** no contribuyen.
 
 ### Del minifundio al latifundio
 
-Por toda España predomina el minifundio, el cual esta orientado a el autoconsumo, los cuales son insuficientes por lo que se ven obligados a emigrar. Por otra parte, los latifundios sólo predominan en Castilla la Mancha, Extremadura y Andalucía, lo cual frena la innovación agrícola.
+Por toda España predomina el minifundio, el cual está orientado a **autoconsumo**, los cuales son insuficientes por lo que se ven obligados a emigrar. Por otra parte, los latifundios solo predominan en Castilla la Mancha, Extremadura y Andalucía, lo cual frena la innovación agrícola.
 
 ***
+
 ## Los inicios de la industrialización
 
 La industrialización de **España** es **primitiva** respecto a la de otros países.
 
 ### La industria algodonera en Cataluña
 
-Antes del inicio de la industrialización manufactura de **indianas**. La industrialización se inicia con las **nuevas máquinas de hilar**  inglesas. Aunque el impulso se ve frenado por la **Guerra de la Independencia**. En **1833** {misma fecha que Década Ominosa} se instala la primera **máquina de vapor**. 
+Antes del inicio de la industrialización manufactura de **indianas**. La industrialización se inicia con las **nuevas máquinas de hilar** inglesas. Aunque el impulso se ve frenado por la **Guerra de la Independencia**. En **1833** {misma fecha que Década Ominosa} se instala la primera **máquina de vapor**.
 
 Con la **escasez de mano de obra**, causa que la **mecanización** sea la opción más rentable. Lo cual disminuyó los **costes de producción ↓↓**, que causaron una **gran demanda** por la **protección arancelaria** y la sustitución de la ~~lana~~ por el algodón. Sin embargo el crecimiento es interrumpido por la guerra de Secesión de los Estados Unidos y el **hambre del algodón**.
 
 ### Los límites de la industria textil
 
-**Escasez** de **carbón** en Cataluña y problemas para trasladarlo desde **Asturias**, lo cual causa la aparición de **colonias industriales.**
+**Escasez** de **carbón** en Cataluña y problemas para trasladarlo desde **Asturias**, lo cual causa la aparición de **colonias industriales**.
 
-Mientras que la escasa vertebración del mercado español se ve reducida por la **demanda débil** de manufacturas. Aunque la industria algodonera **monopolizó el mercado**
+Mientras que la escasa vertebración del mercado español se ve reducida por la **demanda débil** de manufacturas. Aunque la industria algodonera **monopolizó el mercado**.
 
 ### Las primeras industrias siderúrgicas
 
-A mitad del siglo **XIX** como causa de: la mecanización agrícola e industrial, construcción de la red ferroviaria y buques de vapor; **aumentó** la **demanda** del **hierro**. Con esto nace la **industria moderna siderúrgica**. El desarrollo va ligada a la minería y a los **altos hornos** donde se necesitaba grandes cantidades de combustible (**Carbón**).
+A mitad del siglo XIX, como causa de: la mecanización agrícola e industrial, construcción de la red ferroviaria y buques de vapor; **aumentó** la **demanda** del **hierro**. Con esto nace la **industria moderna siderúrgica**. El desarrollo va ligada a la minería y a los **altos hornos** donde se necesitaba grandes cantidades de combustible (**Carbón**).
 
 La industria siderúrgica se origina en **Andalucía** con los yacimientos de **hierro** de Marbella. Aparecen los primero **altos hornos** (1832), sin embargo el uso del **caro carbón vegetal**, hacía inviable la competencia.
 
@@ -81,87 +86,91 @@ Mientras que en Asturias hubo yacimientos de **hulla**, a pesar de su **escaso p
 
 ### Hegemonía de Vizcaya
 
-En el último cuarto del siglo XIX con la creación del **eje Bilbao y Cardiff**  prolifero la industria **siderúrgica** en Vizcaya, consistía en importar carbón Gales para los altos hornos vascos. Aparecieron grandes empresas siderúrgicas vascas.
+En el último cuarto del siglo XIX, con la creación del **eje Bilbao y Cardiff**, proliferó la industria **siderúrgica** en Vizcaya, consistía en importar carbón Gales para los altos hornos vascos. Aparecieron grandes empresas siderúrgicas vascas.
 
-En 1885 en Vizcaya aparece el primer **convertidor Bessemer** que fabricaba acero a partir de un lingote de hierro. Al final del siglo XIX Vizcaya ya representaba la **mayoría** producción de **hierro**.
+En 1885 en Vizcaya aparece el primer **convertidor Bessemer** que fabricaba acero a partir de un lingote de hierro. Al final del siglo XIX, Vizcaya ya representaba la **mayoría** producción de **hierro**.
 
 ### Otras iniciativas industriales
 
 Aparece la industria **naval** en **Cádiz**, además aparecen las **sociedades industriales**.
 
-También destacan otras como la industria **química**: abonos, pinturas, medicamentos y la industria **alimentaria**: harina, aceite, vino y **tipográfica** en Madrid
+También destacan otras como la industria **química**: abonos, pinturas, medicamentos y la industria **alimentaria**: harina, aceite, vino y **tipográfica** en Madrid.
 
-El crecimiento estuvo acompañados de profundos desequilibrios, en la renta por habitante
+El crecimiento estuvo acompañado de profundos desequilibrios en la renta por habitante.
 
 ***
+Aquí está el texto corregido con los puntos finales añadidos:
+
+---
+
 ## Ferrocarril, minería y mercado
 
 ### Ferrocarril
 
 Tiene como objetivo **vertebrar mercado nacional**, además de impulsar la economía y la industria. El primero fue la línea **Barcelona-Mataró** y la segunda **Madrid-Aranjuez**. La ampliación de la red se inició con la **Ley General de Ferrocarriles (1855)** promulgada en el Bienio Progresistas (1854-1856). Entre 1855 y 1866 experimentó un crecimiento (coincide con Pacto de Ostende). A partir de ahí, una paralización en la construcción que se reanuda, desde 1873.
 
-La rápida construcción del ferrocarril es causada por las **subvenciones** que ofreció el gobierno a las campañas ferroviarias extranjeras y los libres aranceles, una oportunidad perdida para el crecimiento de la industria. Además de la **centralización** y el **ancho de vía ibérico** para evitar las invasiones enemigas, que causaba que todas las mercancías transportadas tuvieran que ser transbordadas. 
+La rápida construcción del ferrocarril es causada por las **subvenciones** que ofreció el gobierno a las campañas ferroviarias extranjeras y los **libres aranceles**, una oportunidad perdida para el crecimiento de la industria. Además de la **centralización** y el **ancho de vía ibérico** para evitar las invasiones enemigas, que causaba que todas las mercancías transportadas tuvieran que ser transbordadas.
 
 ### Minería
+
 #### La explotación de yacimientos mineros
 
-Se produjo entre 1874 y 1914, fue un **desarrollo lento** por la escasa demanda causada por el bajo desarrollo industrial. 
+Se produjo entre 1874 y 1914, fue un **desarrollo lento** por la escasa demanda causada por el bajo desarrollo industrial.
 
-La **Ley de Minas 1868**, promulgada para frenar el déficit de hacienda permitió la **explotación** de yacimientos a **empresas extranjeras** ya que los minerales estaban demandados internacionalmente. Con las minas de Almadén ricas en mercurio
+La **Ley de Minas 1868**, promulgada para frenar el déficit de hacienda permitió la **explotación** de yacimientos a **empresas extranjeras** ya que los minerales estaban demandados internacionalmente. Con las minas de Almadén ricas en mercurio.
 
-La gran mayoría era **exportado al extranjero**, a final de siglo suponían de un tercio de todas las exportaciones
+La gran mayoría era **exportado al extranjero**, a final de siglo suponían **un tercio de todas las exportaciones**.
 
 #### El carbón y el hierro
 
-Por una parte, en **Asturias**  se potencia la industria del carbón ya que gracias a su posición era **fácil transportar**, a pesar de su **baja calidad**.
+Por una parte, en **Asturias** se potencia la industria del carbón ya que gracias a su posición era **fácil transportar**, a pesar de su **baja calidad**.
 
-Por otra parte, en País Vasco, se produce el hierro, gracias al convertidor **Bessemer** para la exportación a  Alemania.
-
+Por otra parte, en País Vasco, se produce el hierro, gracias al convertidor **Bessemer** para la exportación a Alemania.
 
 ### Mercado Interior
 
 #### La escasa vertebración del mercado interior
 
-Poco a poco se van tomando medidas para su vertebración, **código de comercio**, **sistema decimal** (Década moderada) y el establecimiento de la **peseta**. Sin embargo, la **economía agrícola** y la falta de demanda redujo el desarrollo.
+Poco a poco se van tomando medidas para su vertebración, **código de comercio**, **sistema decimal** (Década moderada) y el establecimiento de la **peseta**. Sin embargo, la **economía agrícola** y la falta de demanda redujeron el desarrollo.
 
 #### El comercio exterior y los aranceles
 
-La **navegación a vapor** facilitó el comercio exterior, durante la primera parte del siglo XIX, sólo se exportaba, **aceite y vino** y se importaba **algodón**. Aunque, a finales de siglo, se comienzan a exportar **minerales y tejidos** y a importar **carbón**.
+La **navegación a vapor** facilitó el comercio exterior, durante la primera parte del siglo XIX, sólo se exportaba **aceite y vino** y se importaba **algodón**. Aunque, a finales de siglo, se comenzaron a exportar **minerales y tejidos** y a importar **carbón**.
 
-Paralelamente, la pérdida de las colonias, causa que el comercio exterior se vincule con Francia y Gran Bretaña.
+Paralelamente, la pérdida de las colonias causó que el comercio exterior se vinculara con Francia y Gran Bretaña.
 
-***
+---
+
 ## ~~Reforma fiscal y endeudamiento del estado~~
 
 {El apartado por contenido no entra en el temario de la PAU}
 
 ### Hacienda en déficit permanente
 
-1. Privilegiados y Tercer Estado
-2. Carlos IV → Falta de ingresos
-3. Guerra de la Independencia / ~~Colonias~~
-4. Fernando VII, no es capaz de dar soluciones
+1. Privilegiados y Tercer Estado.
+2. Carlos IV → Falta de ingresos.
+3. Guerra de la Independencia / ~~Colonias~~.
+4. Fernando VII, no es capaz de dar soluciones.
 
 ### La Reforma Mon-Santillán
 
-- Liberales moderados → ~~Privilegios~~ → Igualdad
+- Liberales moderados → ~~Privilegios~~ → Igualdad.
 - **Impuestos**
-	- Impuesto de Consumos
-	- Contribución por inmuebles e industria
-- No tiene en cuenta los ingresos
-- **Fraude fiscal**
+  - Impuesto de Consumos.
+  - Contribución por inmuebles e industria.
+- No tiene en cuenta los ingresos.
+- **Fraude fiscal**.
 
 Al final, de la Década Moderada (1844-1854), Bravo Murillo propone una nueva reforma.
 
 ### La persistencia del endeudamiento
 
-- Crédito exterior
-- Emisión e la deuda pública
-- Dependencia financiera / concesiones
+- Crédito exterior.
+- Emisión **de** la deuda pública.
+- Dependencia financiera / concesiones.
 
 ### Unificación monetaria y banca
 
-- Aparición de la **Peseta**
-- Banco San Carlos → Banco San Fernando → Banco de España
-- Banco Bilbao y Banco Vizcaya
-
+- Aparición de la **Peseta**.
+- Banco San Carlos → Banco San Fernando → Banco de España.
+- Banco Bilbao y Banco Vizcaya.

@@ -1,3 +1,5 @@
+Aquí tienes el texto revisado, con correcciones ortográficas y ajustes en la estructura para mejorar la claridad:
+
 # La Sociedad de inicios del s.XX
 
 ## La transformación demográfica
@@ -6,152 +8,144 @@
 
 Durante las primeras décadas del siglo XX, España incrementó su población en **5 millones de personas**. En 1900, 18 millones y en 1930, 23,6 millones.
 
-Esto fue gracias en parte a los **avances médicos** y **condiciones sanitarias e higiénicas**, agua potable, alcantarillado... Sin embargo, la principal causa del **descenso de la mortalidad** fue la **Industrialización**. Además también se redujo la **mortalidad infantil ↓↓** y aumento la **esperanza de vida ↑↑** al rededor de 50 años.
+Esto fue gracias en parte a los **avances médicos** y **condiciones sanitarias e higiénicas**, agua potable, alcantarillado... Sin embargo, la principal causa del **descenso de la mortalidad** fue la **Industrialización**. Además, también se redujo la **mortalidad infantil ↓↓** y aumentó la **esperanza de vida ↑↑** a alrededor de 50 años.
 
-Paralelamente, la **natalidad ↓↓** disminuye, sobretodo por los cambios sociales de las sociedades urbanas.
+Paralelamente, la **natalidad ↓↓** disminuyó, sobre todo por los cambios sociales de las sociedades urbanas.
 
 Con todo esto, España, progresivamente, se acerca más a la **demografía europea**.
 
 ### Éxodo rural y migración transatlántica
 
-Al final del siglo XIX, se acelera el **éxodo rural  ↑↑**, alrededor de 1930 los campesinos solo suponen aproximadamente el **50% de la población**
+Al final del siglo XIX, se acelera el **éxodo rural ↑↑**. Alrededor de 1930, los campesinos solo suponen aproximadamente el **50% de la población**.
 
-Por una parte la **migración hacia América** es constante durante el primer  tercio del siglo XX, sin embargo su momento álgido fue esta 1914, cuando estalla la **Gran Guerra**. A partir de dicho año, las **migraciones** exteriores serán remplazadas por las **interiores**, lo cual causa **desequilibrios regionales**. Siendo los destinos preferidos: Madrid, Cataluña, País Vasco, la Comunidad Valenciana y Canarias
+Por una parte, la **migración hacia América** es constante durante el primer tercio del siglo XX. Sin embargo, su momento álgido fue hasta 1914, cuando estalla la **Gran Guerra**. A partir de dicho año, las **migraciones** exteriores serán reemplazadas por las **interiores**, lo cual causa **desequilibrios regionales**. Los destinos preferidos eran Madrid, Cataluña, País Vasco, la Comunidad Valenciana y Canarias.
 
-
-### El creciente proceso de urbano
+### El creciente proceso urbano
 
 La gente se desplaza a las ciudades, donde destacan **Madrid y Barcelona**, con un proceso de **urbanización por ensanches**. La urbanización ocurre mayoritariamente en **provincias costeras**, salvo Madrid, Valladolid y Zaragoza.
 
-Paralelamente, se asentan **centros industriales** junto a Barcelona, Bilbao y en la zona de la minería asturiana.
+Paralelamente, se asientan **centros industriales** junto a Barcelona, Bilbao y en la zona de la minería asturiana.
 
-A pesar de esto, España es el país con **densidad de población más baja de Europa.**
+A pesar de esto, España es el país con **densidad de población más baja de Europa**.
 
 ## La modernización económica
 
 ### El impacto del cambio energético
 
-Estalla la **2ª Revolución industrial**, aparecen dos nuevas fuentes de energías: **la electricidad** y el **petróleo**
+Estalla la **2ª Revolución industrial**, aparecen dos nuevas fuentes de energía: **la electricidad** y el **petróleo**.
 
 Por una parte, con la electricidad aparecen **centrales hidroeléctricas** que permiten la expansión de la industria y de los transportes. Además, se utiliza la energía eléctrica para la **iluminación**. La demanda aumenta vertiginosamente a partir de 1910. 
 
-Por otra parte, el **petróleo** y derivados (gasolina, plástico...) impulsan a la industria del transporte con la aparición de la automovilística y la aviación.
+Por otra parte, el **petróleo** y sus derivados (gasolina, plástico...) impulsan la industria del transporte con la aparición de la automovilística y la aviación.
 
-Por último, se impulsa, el **telégrafo, la telefonía y la radio**, sobretodo en las ciudades. A pesar de esto España mantiene un gran **retraso** con el resto de países.
+Por último, se impulsa el **telégrafo, la telefonía y la radio**, sobre todo en las ciudades. A pesar de esto, España mantiene un gran **retraso** con respecto al resto de países.
 
 ### La diversificación industrial
 
 Aumento del **crecimiento anual**.
 
-**Desarrollo desigual** de las empresas, más crecimiento en industria emergente
+**Desarrollo desigual** de las empresas, más crecimiento en industria emergente.
 
-Las industrias textiles y conserveras, empezaran a perder peso. Aparece la **Industria Química** (pintura, explosivos...), **Industria Naviera**, **Industria eléctrica** (La Canadiense), **Industria metalúrgica**, **Industria automovilística** (Hispano-Suizo) y la **Industria de la Edificación** con la aparición del cemento
-
+Las industrias textiles y conserveras empezaron a perder peso. Aparece la **Industria Química** (pintura, explosivos...), **Industria Naviera**, **Industria eléctrica** (La Canadiense), **Industria metalúrgica**, **Industria automovilística** (Hispano-Suiza) y la **Industria de la Edificación** con la aparición del cemento.
 
 ### Aumento de las inversiones y de los servicios
 
+Llega **capital** del **extranjero** (Estados Unidos, Bélgica, Alemania...) que **invierte** en diferentes sectores.
 
-Llega **capital** del **extranjero** (Estados Unidos, Bélgica, Alemania...) que **invierten** en diferentes sectores.
+La concentración de la gente en las ciudades posibilita la aparición de **cajas de ahorro y compañías de seguros**.
 
-La concentración de la gente en las ciudades, posibilitan la aparición de **cajas de ahorro y compañías de seguros**.
+Asimismo, hubo un impulso a **nuevas infraestructuras estatales**: carreteras, puertos, presas, ferrocarriles...
 
-Asimismo hubo un impulso a **nuevas infraestructuras estatales**: carreteras, puertos, presas, ferrocarriles... 
-
-También aumenta progresivamente la telefónica y el telégrafo. Esto causa la aparición de la empresa pública **Compañía Telefónica Nacional de España**.
-
-
+También aumenta progresivamente la telefonía y el telégrafo. Esto causa la aparición de la empresa pública **Compañía Telefónica Nacional de España**.
 
 ### Lenta transformación del sector primario
 
-El sector primario mantiene **peso en la economía**, el **trigo** es el más cultivado. Ya que España aún sufría las consecuencias de la **filoxera** de finales del siglo **XIX**. Poco a poco, con la importación de nuevos productos, el **sistema** sufre una **transformación** y poco a poco se deja de consumir tanto **~~cereal~~**.
+El sector primario mantiene **peso en la economía**, el **trigo** es el más cultivado. España aún sufría las consecuencias de la **filoxera** de finales del siglo **XIX**. Poco a poco, con la importación de nuevos productos, el **sistema** sufre una **transformación** y se deja de consumir tanto **~~cereal~~**.
 
-A pesar de todo esto, no hay innovación en el sector agrícola, sobretodo respecto a la maquinaria.
+A pesar de todo esto, no hay innovación en el sector agrícola, sobre todo respecto a la maquinaria.
 
 ### Los principales problemas agrarios
 
 El sector agrario sufre varios problemas:
 
-En primer lugar, la **desigualdad de a propiedad de la tierra**. Mientras que en el **norte** predominaban los **arrendatarios**, en el **sur** mayoritariamente había **jornaleros**. A pesar de que todos tenían dificultades para subsistir, estos últimos sobre todo porque tenían **trabajo temporal**
+En primer lugar, la **desigualdad de la propiedad de la tierra**. Mientras que en el **norte** predominaban los **arrendatarios**, en el **sur** mayoritariamente había **jornaleros**. A pesar de que todos tenían dificultades para subsistir, estos últimos sobre todo porque tenían **trabajo temporal**.
 
-En segundo lugar, **escasa productividad agrícola** marcada por la **climatología**, lo cual causaba que los productos Españoles no pudieran competir con el **mercado internacional**, especialmente en el caso de los **cereales**.
+En segundo lugar, **escasa productividad agrícola** marcada por la **climatología**, lo cual causaba que los productos españoles no pudieran competir con el **mercado internacional**, especialmente en el caso de los **cereales**.
 
-En tercer lugar, la falta de avances técnicos por la falta de **~~Maquinaria agraria~~**.
+En tercer lugar, la falta de avances técnicos por la falta de **~~maquinaria agraria~~**.
 
-En cuarto lugar, la plaga de la **filoxera**, que arrastramos de finales del siglo XIX.
+En cuarto lugar, la plaga de la **filoxera**, que arrastramos desde finales del siglo XIX.
 
 ### Reformas agrarias
 
-Ante esta situación el gobierno trató de tomar medidas:
+Ante esta situación, el gobierno trató de tomar medidas:
 
-En primer lugar, tomo **medidas proteccionistas**, como aranceles, para hacer frente a la competencia de otros países
+En primer lugar, tomó **medidas proteccionistas**, como aranceles, para hacer frente a la competencia de otros países.
 
-En segundo lugar, el **Plan de Obras públicas**, que tenía como objetivo ampliar la **zona de regadío** el cual por su lenta aplicación apenas transformó el panorama.
+En segundo lugar, el **Plan de Obras Públicas**, que tenía como objetivo ampliar la **zona de regadío** el cual, por su lenta aplicación, apenas transformó el panorama.
 
-En tercer lugar, la creación de la **Confederación hidrográfica** y el **Plan de Obras hidráulicas**, que tenían como objetivo entre otras cosas gestionar el agua.
+En tercer lugar, la creación de la **Confederación Hidrográfica** y el **Plan de Obras Hidráulicas**, que tenían como objetivo, entre otras cosas, gestionar el agua.
 
-Por último a partir ente 1907 y 1917, se empiezan a repartir tierras progresivamente.
-
+Por último, a partir de 1907 y 1917, se empiezan a repartir tierras progresivamente.
 
 ## La creciente intervención del Estado
 
 ### Proteccionismo y nacionalismo económico
 
-**Intervención del estado** favorece a la industria **cerealística y a la textil**, ya que fijaba los precios. Sin embargo, no contribuía a la ~~Productividad~~.
+La **intervención del Estado** favorece a la industria **cerealística y a la textil**, ya que fijaba los precios. Sin embargo, no contribuía a la ~~productividad~~.
 
-Además con la **Ley de Protección de la Industria de 1907** y las **exenciones fiscales**  se fomenta la aparición de empresas relativas al transporte Naval y aéreo, los cereales y la minería
-
+Además, con la **Ley de Protección de la Industria de 1907** y las **exenciones fiscales** se fomenta la aparición de empresas relativas al transporte naval y aéreo, los cereales y la minería.
 
 ## Hacia una sociedad de masas
 
 ### La persistencia del mundo rural
 
-Se mantiene la **oligarquía agraria** del siglo XIX, que todavía mantiene gran **influencia socio-económica**. Destaca sobre todo la zona de Andalucía, Castilla la Mancha y Extremadura donde había **latifundios**, a pesar de esto, apenas hubo ~~innovación~~ en el sector.
+Se mantiene la **oligarquía agraria** del siglo XIX, que todavía mantiene gran **influencia socioeconómica**. Destaca sobre todo la zona de Andalucía, Castilla-La Mancha y Extremadura, donde había **latifundios**. A pesar de esto, apenas hubo ~~innovación~~ en el sector.
 
-Además, mientras que en norte predominaban los **arrendatarios y pequeños propietarios**, en la parte sur los **jornaleros**
+Además, mientras que en el norte predominaban los **arrendatarios y pequeños propietarios**, en la parte sur los **jornaleros**.
 
 ### Los grupos urbanos
 
-Durante el primer tercio del siglo XX los grupos urbanos experimentaron más cambios que durante el siglo anterior.
+Durante el primer tercio del siglo XX, los grupos urbanos experimentaron más cambios que durante el siglo anterior.
 
-En primer lugar, el aumento de la industria causa la aparición de la **burguesía financiera** que conjuntamente con la **burguesía industrial** conformaban la clase alta.
+En primer lugar, el aumento de la industria causa la aparición de la **burguesía financiera** que, conjuntamente con la **burguesía industrial**, conformaban la clase alta.
 
-En segundo lugar, progresivamente aumenta el número de integrantes de la **clase media** conformada por oficios relativos a la ciudad: **profesiones liberales** (abogado, médico...), **servicios y comercios** (bancos, transportes, pequeños almacenes) y **funcionariado medio**
- (sanidad, enseñanza...).
+En segundo lugar, progresivamente aumenta el número de integrantes de la **clase media** conformada por oficios relativos a la ciudad: **profesiones liberales** (abogado, médico...), **servicios y comercios** (bancos, transportes, pequeños almacenes) y **funcionariado medio** (sanidad, enseñanza...).
 
-Por último los, **obreros industriales** concentrados en los núcleos de industria (Cataluña, Madrid, País Vasco y Asturias), padecen condiciones precarias, malas condiciones de trabajo, salarios bajos y vivían concentrados en barrios insalubres. A pesar de esto padecían **mejores condiciones que los jornaleros**. 
+Por último, los **obreros industriales** concentrados en los núcleos de industria (Cataluña, Madrid, País Vasco y Asturias) padecen condiciones precarias, malas condiciones de trabajo, salarios bajos y vivían concentrados en barrios insalubres. A pesar de esto, padecían **mejores condiciones que los jornaleros**.
 
 ### El progreso educativo cultural
 
-El número de alfabetizados aumenta progresivamente: en **1930 sólo un 30% de analfabetos.** Además de la mejora del sistema educativo
+El número de alfabetizados aumenta progresivamente: en **1930 solo un 30% de analfabetos**. Además, mejora el sistema educativo.
 
-Adicionalmente, los Ateneos y las emergentes casas del pueblo fomentan la cultura. Por último como formas de ocio aparece la lectura y las colecciones, y el cine y los deportes.
-
-
+Adicionalmente, los Ateneos y las emergentes casas del pueblo fomentan la cultura. Por último, como formas de ocio aparecen la lectura y las colecciones, y el cine y los deportes.
+---
 
 ## Las nuevas mujeres del siglo XX
 
 ### La persistencia de la discriminación legal
 
-La mujer estaba **subordinada a padre o marido**, de hecho cuando una mujer se casaba perdía todos sus derechos y dependían completamente de su marido. Sin su aquiescencia  no podía pedir prestamos o hipotecas, vender propiedades, aceptar o rechazar herencias...
+La mujer estaba **subordinada a padre o marido**. De hecho, cuando una mujer se casaba perdía todos sus derechos y dependía completamente de su marido. Sin su aquiescencia, no podía pedir préstamos o hipotecas, vender propiedades, aceptar o rechazar herencias...
 
-Por último el código civil castigaba a las mujeres por la **desobediencia al marido**. Además,  el adulterio también era castigado.
+Por último, el código civil castigaba a las mujeres por la **desobediencia al marido**. Además, el adulterio también era castigado.
 
 ### El lento progreso en la educación 
 
-A partir de **1910**, hombres y mujeres gozan de las **mismas condiciones educativas**. Los dos tienen **educación obligatoria hasta los 12** y ambos pueden sexos pueden matricularse en la **universidad** sin la necesidad de permisos especiales.
+A partir de **1910**, hombres y mujeres gozan de las **mismas condiciones educativas**. Los dos tienen **educación obligatoria hasta los 12** y ambos sexos pueden matricularse en la **universidad** sin la necesidad de permisos especiales.
 
-Por último, progresivamente durante el primer tercio del siglo la alfabetización **aumenta progresivamente**. Al igual que en las matriculaciones 
+Por último, progresivamente durante el primer tercio del siglo la alfabetización **aumenta progresivamente**, al igual que las matriculaciones.
 
 ### Nuevas profesiones
 
 A finales del siglo XIX ya trabajaban en la **industria o en el campo**, aunque mayoritariamente contrataban a mujeres solteras o viudas.
 
-Aparecen nuevas profesores ocupadas por la mujer: **telefonista y mecanógrafa** y **enfermera, bibliotecaria y maestra**. Además de los puesto de trabajo relativos al sector doméstico. Sin embargo hasta 1918 no podían ser funcionarias.
+Aparecen nuevas profesiones ocupadas por la mujer: **telefonista y mecanógrafa** y **enfermera, bibliotecaria y maestra**. Además de los puestos de trabajo relativos al sector doméstico. Sin embargo, hasta 1918 no podían ser funcionarias.
 
 Por último, por lo general tenían **salarios más bajos** que los hombres.
 
 ### La nueva mujer urbana y las primeras feministas
 
-Por una parte, aparece la nueva mujer se refleja en las **revistas de moda y en el cine**.
+Por una parte, aparece la nueva mujer que se refleja en las **revistas de moda y en el cine**.
 
-Por otra parte poco a poco aparecerá el **Feminismo**, con la aparición de la **Asociación nacional de Mujeres Españolas**. Dirigidas por **Clara Campoamor y Victoria Kent (G-27)**.
+Por otra parte, poco a poco aparecerá el **feminismo**, con la aparición de la **Asociación Nacional de Mujeres Españolas**, dirigida por **Clara Campoamor y Victoria Kent (G-27)**.
+

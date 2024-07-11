@@ -1,6 +1,6 @@
 # Líneas del Tiempo
 
-Líneas del tiempo del siglo XIX hechas con el programa [Timeline](https://thetimelineproj.sourceforge.net/index.html)
+Líneas del tiempo del siglo XIX hechas con el programa [Timeline](https://thetimelineproj.sourceforge.net/index.html).
 
 ![Línea del tiempo ](../pictures/Linea-Tiempo/UD1.png)
 ![Línea del tiempo ](../pictures/Linea-Tiempo/UD4.1.png)
