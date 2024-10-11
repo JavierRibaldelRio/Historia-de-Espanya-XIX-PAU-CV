@@ -19,7 +19,6 @@ book:
         aria-label: LinkedIn
   date: "2024"
   date-format: "YYYY"
-  language: "es"
   repo-url: https://github.com/JavierRibaldelRio/Historia-de-Espanya-XIX-PAU-CV
   repo-actions: [issue]
   image: pictures/Portada.png
@@ -53,7 +52,6 @@ format:
     metadata:
       title: "Historia de España S.XIX"
       author: "Javier Ribal del Río"
-      language: "es-ES"
       # cover-image: "pictures/Portada.png"
     toc-depth: 4
   pdf:  
@@ -62,7 +60,6 @@ format:
     papersize: a4
     mainfont: Montserrat
     geometry: "top=2.5cm, bottom=2.5cm"
-    lang: "es-ES"
     df-print: default
     title: "Historia de España S.XIX"
     subtitle: "Prueba de Acceso a la Universidad Comunidad Valenciana"
