@@ -7,8 +7,6 @@ project:
 
 book:
   title: "Historia de España"
-  cookie-consent: 
-    type: implied
   page-footer: © Copyright 2025
   subtitle: "Prueba de Acceso Universidad Comunidad Valenciana"
   bread-crumbs: false
@@ -45,6 +43,7 @@ book:
 format:
   html:
     smooth-scroll: true
+    include-in-header: "adsense-head.html"
     toc-depth: 4
     language: 
       title-block-author-single: "Autor"
