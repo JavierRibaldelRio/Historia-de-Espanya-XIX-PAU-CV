@@ -6,36 +6,50 @@ project:
     port: 3000
 
 book:
-  title: "Historia de España S.XIX"
+  title: "Historia de España"
+  page-footer: © Copyright 2025
   subtitle: "Prueba de Acceso Universidad Comunidad Valenciana"
-  license: MIT
+  bread-crumbs: false
   sidebar: 
-    title: "Historia de España S.XIX PAU CV"
-  date: "2025"
-  date-format: "YYYY"
+    title: "Historia de España  PAU CV"
+    collapse-level: 1
+    border: true
+    
   image: pictures/Portada.png
   cover-image: pictures/Portada.png
   favicon: pictures/Portada.png
   chapters: 
-    - index.qmd
-    - pages/Unidades/Fernando.qmd
-    - pages/Unidades/MCristina.qmd
-    - pages/Unidades/Industria.qmd
-    - pages/Unidades/Sociedad-XIX.qmd
-    - pages/Unidades/Inicio-Restauracion.qmd
-    - pages/Unidades/Fin-Restauracion.qmd
-    - pages/Unidades/Sociedad-XX.qmd
+    - href: index.qmd
+      text: Introducción
+    - part: "Siglo XIX"
+      chapters:
+      - pages/Unidades/Fernando.qmd
+      - pages/Unidades/MCristina.qmd
+      - pages/Unidades/Industria.qmd
+      - pages/Unidades/Sociedad-XIX.qmd
+      - pages/Unidades/Inicio-Restauracion.qmd 
 
-    - pages/Vocabulario-s-xix.qmd
+    - part: "Siglo XX" 
+      chapters:
+      - pages/Unidades/Fin-Restauracion.qmd
+      - pages/Unidades/Sociedad-XX.qmd
+
+    - part: "Vocabulario"
+      chapters:
+          - pages/Vocabulario-s-xix.qmd
+    
  
   
 format:
   html:
+    smooth-scroll: true
     toc-depth: 4
     language: 
       title-block-author-single: "Autor"
       title-block-published: "Año de publicación"
       toc-title-website: "Índice"
       toc-title-document: "Índice"
-    theme: sandstone
+    theme: 
+      light: [cosmo, styles/main.scss, styles/light.scss ]
+      dark: [darkly, styles/main.scss, styles/dark.scss]
   
