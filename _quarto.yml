@@ -8,19 +8,11 @@ project:
 book:
   title: "Historia de España S.XIX"
   subtitle: "Prueba de Acceso Universidad Comunidad Valenciana"
-  author: "Javier Ribal del Río"
   license: MIT
-  downloads: [pdf, epub]
   sidebar: 
     title: "Historia de España S.XIX PAU CV"
-    tools: 
-      - icon: linkedin
-        href: https://www.linkedin.com/in/javier-ribal-del-rio/
-        aria-label: LinkedIn
-  date: "2024"
+  date: "2025"
   date-format: "YYYY"
-  repo-url: https://github.com/JavierRibaldelRio/Historia-de-Espanya-XIX-PAU-CV
-  repo-actions: [issue]
   image: pictures/Portada.png
   cover-image: pictures/Portada.png
   favicon: pictures/Portada.png
@@ -33,11 +25,9 @@ book:
     - pages/Unidades/Inicio-Restauracion.qmd
     - pages/Unidades/Fin-Restauracion.qmd
     - pages/Unidades/Sociedad-XX.qmd
-    - pages/Esquemas.qmd
-    - pages/Comentario-Texto.qmd
-    - pages/Vocabulario.qmd
-    - pages/Preguntas-Transversales.qmd
-    - pages/Lineas-del-tiempo.qmd
+
+    - pages/Vocabulario-s-xix.qmd
+ 
   
 format:
   html:
@@ -47,36 +37,5 @@ format:
       title-block-published: "Año de publicación"
       toc-title-website: "Índice"
       toc-title-document: "Índice"
-    theme: cosmo
-  epub:
-    metadata:
-      title: "Historia de España S.XIX"
-      author: "Javier Ribal del Río"
-      # cover-image: "pictures/Portada.png"
-    toc-depth: 4
-  pdf:  
-    documentclass: scrreprt
-    toc-depth: 4
-    papersize: a4
-    mainfont: Montserrat
-    geometry: "top=2.5cm, bottom=2.5cm"
-    df-print: default
-    title: "Historia de España S.XIX"
-    subtitle: "Prueba de Acceso a la Universidad Comunidad Valenciana"
-    metadata:
-      title-meta: "Historia de España S.XIX PAU CV"
-      author-meta: "Javier Ribal del Río"         
-    include-in-header: 
-      text: |
-        \usepackage{scrlayer-scrpage}
-        \usepackage[cc]{titlepic}
-        \usepackage{graphicx}
-        \titlepic{\includegraphics[width=\textwidth]{pictures/Portada.png}}
-        \clearpairofpagestyles
-        \automark[chapter]{chapter} % Activa la marcación automática del capítulo  
-        \ihead{\leftmark}  
-        \setheadsepline{0.4pt}
-        \setfootsepline{0.4pt} % Inserta una línea sobre el pie de página
-        \cfoot[\pagemark]{ Historia de España s.XIX PAU Comunidad Valenciana \quad \quad Página: \pagemark. }
-        \pagestyle{scrheadings}
-    
+    theme: sandstone
+  

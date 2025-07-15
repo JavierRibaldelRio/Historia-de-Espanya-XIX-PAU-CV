@@ -1,6 +1,4 @@
-Entiendo, aquí está el texto revisado para mantener tanto el tachado como la negrita:
 
----
 
 # La liberalización, la regencia de MªCristina, el reinado de Isabel II y el Sexenio Democrático
 
@@ -89,9 +87,6 @@ Por último, se firma el **Concordato con la Santa Sede** que pone término con 
 Aparece el **sistema electoral por distritos uninominales**, que es fácilmente manipulable, **reforma fiscal (Ley Món-Santillán)**, aparece el impuesto de consumos, la **Guardia Civil** sustituye a la **~~Milicia Nacional~~**, los **alcaldes** **elegidos** por la corona aparece el **Código Civil** y el **Código Penal**, el sistema métrico decimal y la educación pública.
 
 
-Claro, aquí tienes el texto revisado para faltas ortográficas y con la estructura mejorada, incluyendo puntos y aparte cuando es necesario:
-
----
 
 ### Crisis del moderantismo
 
@@ -180,7 +175,7 @@ Se caracteriza por ser **muy avanzada**, destacando el **amplio régimen de dere
 
 ### La monarquía de Amadeo de Saboya (1871-1873)
 
-<div style="color:red">Parte de este contenido no está en el libro sino en la presentación de Rubén [El auge del republicanismo]</div>
+
 
 Prim queda elegido para buscar a un rey. El elegido es **Amadeo de Saboya**, o Amadeo I, conocido porque su familia había conseguido unificar toda Italia. Su **candidatura** es **votada** en las **Cortes** y poco después muere **~~Prim~~**.
 
