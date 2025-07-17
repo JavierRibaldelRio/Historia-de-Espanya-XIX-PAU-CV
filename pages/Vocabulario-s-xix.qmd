@@ -1,7 +1,9 @@
-# Vocabulario Siglo XIX
+# Vocabulario
 
 
-##  El Reinado de Fernando VII
+## Siglo XIX
+
+### El Reinado de Fernando VII
 
 - **Antiguo Régimen:** Sistema social, económico y político utilizado en Europa antes del siglo XVIII. Se caracteriza por centralizar todos los poderes en la monarquía, que es elegida por la iglesia a través del derecho divino. La sociedad se encuentra dividida en estamentos, siendo el clero y la nobleza los estamentos privilegiados, mientras que económicamente predomina la economía de subsistencia basada en la agricultura y la ganadería.
 
@@ -68,7 +70,7 @@
 - **Mesta:** Privilegio que gozaban los ganaderos por el cual podían transitar libremente por las cañadas reales, además también estaban exentos de algunos impuestos. Durante el reinado de Fernando VII (1808-1833) fue abolido y reimplantado varias veces hasta su supresión definitiva por los gobiernos de María Cristina.
 
 ***
-##  La liberalización, la regencia de Mª Cristina, el reinado de Isabel II y el Sexenio Democrático
+### La liberalización, la regencia de Mª Cristina, el reinado de Isabel II y el Sexenio Democrático
 
 - **Carlismo:** movimiento político español que promueve a Carlos María Isidro y su descendencia como monarcas de España. Estaban enfrentados contra los cristinos o isabelinos porque Fernando VII había promulgado la Pragmática Sanción para abolir la Ley Sálica y permitir que Isabel II reinara. Mantenían una ideología conservadora y su lema era: "Dios, Patria, Rey/Fueros".
 
@@ -117,69 +119,162 @@
 - **Cantonalismo:** movimiento republicano federalista que apareció en España durante la Primera República (1873-1874). Fomentado por los federalistas intransigentes, basaban el cantonalismo en las ideas anárquicas de la AIT. Consistía en que varias regiones declararan su independencia y formaran su propio gobierno autónomo, con el objetivo de descentralizar el poder. El ejemplo más característico es el cantón de Cartagena.
 ***
 
-##  La transformación industrial y agraria del siglo XIX
+### La transformación industrial y agraria del siglo XIX
 
 - **Ciclo Demográfico Antiguo:** demografía característica del Antiguo Régimen, marcada por una alta mortalidad debido a la abundancia de epidemias y la falta de higiene, especialmente en zonas rurales donde la medicina no estaba suficientemente avanzada. También presentaba una alta natalidad, ya que la economía mayoritariamente agraria utilizaba a los hijos como mano de obra. En España, este ciclo estuvo presente desde el feudalismo hasta el primer tercio del siglo XIX.
+
 - **Transición demográfica:** proceso de cambio demográfico impulsado por la mejora de las condiciones sanitarias y la higiene, resultado del desarrollo de la industria que posibilitó un descenso de la mortalidad. En España, la transición más significativa se produjo en el primer tercio del siglo XIX, dejando atrás el Ciclo Demográfico Antiguo y pasando a una demografía más moderna.
+
 - **Indianos:** españoles que emigraban a América con el objetivo de enriquecerse y, al lograrlo, regresaban a España para realizar acciones filantrópicas. Este fenómeno, conocido popularmente como "hacer las Américas", involucró principalmente a emigrantes de Asturias, Galicia y Cantabria, quienes se dirigían a países como Argentina y México.
+
 - **Latifundio:** propiedades agrícolas de grandes dimensiones utilizadas para la agricultura. En España, durante el siglo XIX, estos terrenos se encontraban predominantemente en Extremadura, Castilla-La Mancha y Andalucía, debido a la orografía. A pesar de su existencia, apenas hubo avance agrario en estos latifundios durante el siglo XIX.
+
 - **Minifundio:** propiedades agrarias de pequeñas dimensiones utilizadas para la agricultura. En España, durante el siglo XIX, predominaban en la vertiente mediterránea y el norte, debido a la mala orografía del país. Los señores contrataban jornaleros para trabajar las tierras o las alquilaban.
+
 - **Indianas:** telas con estampado de colores que tuvieron gran éxito en Europa, provenientes de la India. Antes de la industrialización española, Cataluña atrajo inversores con la producción de estas telas peculiares.
+
 - **Colonia industrial:** asentamientos de civiles cerca de un río para aprovechar la energía producida por un salto de agua. Estos asentamientos estaban constituidos por distintos edificios, como la mansión del propietario, las fábricas y viviendas para los trabajadores y sus familias. Aparecieron en España tras la industrialización de Cataluña.
+
 - **Altos hornos:** instalaciones industriales destinadas a la producción de hierro, utilizado principalmente en la fabricación de acero. Requerían grandes cantidades de carbón para alcanzar altas temperaturas. En España, los primeros altos hornos aparecieron en Andalucía.
 
 ***
 
-##  La transformación social del siglo XIX
+### La transformación social del siglo XIX
+
 
 - **Estamentos:** sistema de organización característico del feudalismo, la población se dividía en tres grupos: nobleza, clero y campesinado. Estos grupos o estamentos eran fijos, no se podía cambiar de uno a otro, y el estamento de cada persona era determinado en el momento de nacimiento. Con la abolición del Antiguo Régimen, los estamentos fueron reemplazados por las clases sociales.
+
 - **Hidalgos:** miembros de la baja nobleza que vivían gracias a la recaudación de impuestos. Con la abolición del Antiguo Régimen y la eliminación de todos los privilegios, pasaron a integrarse en la clase media.
+
 - **Socialismo:** ideología política, económica y social que busca que el Estado controle la producción de bienes y servicios. Distinguimos dos corrientes: el Socialismo Utópico propuesto por Robert Owen y el Socialismo Científico o Marxismo de Karl Marx. Es una ideología presente dentro de la AIT.
+
 - **Anarquismo:** ideología iniciada por el filósofo Bakunin que propone la abolición del Estado y cualquier forma de gobierno o jerarquía, además de la cooperación voluntaria y la autogestión. Distinguimos distintas vertientes como el anarcocomunismo y el anarcosindicalismo. Es una ideología recogida en la AIT.
+
 - **Anarcocomunismo:** vertiente del anarquismo que aboga por la supresión del Estado y cualquier forma de gobierno, así como de la propiedad privada. Es una mezcla entre el anarquismo y el comunismo, y opta por el uso de la acción directa y los magnicidios. El cantonalismo que aparece durante la Primera República (1873-1874) pertenece al anarcocomunismo.
+
 - **Anarcosindicalismo:** corriente de pensamiento anarquista que mediante el uso de sindicatos (asociaciones de trabajadores como la CNT) propone la emancipación de la clase trabajadora y la creación de una sociedad sin clases sociales, además de abolir el concepto del Estado.
+
 - **Ludismo:** movimiento social originado en Inglaterra durante la Revolución Industrial. Los luditas eran miembros del proletariado que luchaban contra las máquinas porque amenazaban sus puestos de trabajo. Para lograr su objetivo mandaban cartas amenazantes a la patronal o cometían actos mecanoclastas.
+
 - **Sociedades de protección mutua:** organizaciones voluntarias conformadas por miembros del proletariado que pagaban una cuota mensual. Tenían como objetivo proporcionar dinero a los afiliados que no podían trabajar, ya fuera por un despido o por estar enfermos.
 
-##  La Restauración: el regreso de la monarquía y el fin del imperio
+### La Restauración: el regreso de la monarquía y el fin del imperio
+
 
 - **Caciques/Caciquismo:** individuos o familias que, por poder económico o influencias políticas, controlaban el sistema electoral por orden del gobierno, motivando a los electores a votar a determinado partido político o amañando directamente las elecciones mediante el "pucherazo". Aparecen en España durante la Restauración (1874-1931).
+
 - **Pucherazo:** fraude electoral o manipulación que se realiza con el objetivo de que determinado partido gane las elecciones. Para ello hay distintas artimañas: comprar votos, eliminar urnas, votar por gente muerta... Durante la Restauración (1874-1931), los caciques lo utilizaban.
+
 - **Encasillamiento:** documento redactado por el Ministerio de Gobernación durante la Restauración (1874-1931). Contenía la asignación de los diputados que tenían que resultar elegidos en las próximas elecciones para garantizar la continuación del sistema turnista o canovista. El documento era remitido a los caciques y a los alcaldes.
+
 - **Turnismo:** sistema de gobierno utilizado en la Restauración (1874-1931), diseñado por Cánovas del Castillo, basándose en el de Gran Bretaña, con el objetivo de alcanzar la estabilidad política. Se basa en cuatro pilares: el rey como cabeza simbólica del ejército (para evitar pronunciamientos), los partidos dinásticos (el liberal y el conservador, que protegían el sistema), el rey como árbitro político (decide cuándo gobierna cada partido) y la Constitución de 1876.
+
 - **Arancel Cánovas:** impuesto o carga fiscal sobre los productos que importaba Cuba que no fueran de España. Era una medida proteccionista ya que eliminaba a toda la competencia. Esto molestaba mucho a Estados Unidos, que no podía vender sus productos. Por esto, durante la guerra Chiquita (1895-1898) intervino a favor de Cuba.
 
 ***
 
-##  La crisis de la Restauración, la Dictadura de Primo de Rivera
+
+###  Otras
+
+- **Bienes comunales:** conjunto de tierras que pertenecen a un ayuntamiento las cuales son de uso común; es decir, para todos los habitantes de un municipio, por ejemplo, las montañas boscosas sin explotar. En la desamortización de Madoz del Bienio Progresista (1854-1856), estas tierras también son expropiadas.
+
+- **Censo:** recuento de la población clasificada por su lugar de residencia. El censo tiene distintas utilidades, por ejemplo: tomar decisiones políticas en función del número de habitantes de una zona, gestionar la recaudación de impuestos, generar los distritos electorales en las elecciones, etc.
+
+- **Censura:** {orientada al s.XIX} acto de suprimir deliberadamente la difusión de información o ideas. Este control es ejercido por varios organismos. En España, durante el siglo XIX, era ejercida por la Monarquía y por la Iglesia a través de la Inquisición para evitar la difusión de las ideas ilustradas, republicanas o liberales y/o anticlericales.
+
+- **Confesionalidad:** carácter religioso de una religión como oficial y se compromete a respaldarla. En España, la religión oficial siempre ha sido el catolicismo. La iglesia cobraba el diezmo, pero asumía ciertas competencias del ámbito educativo y sanitario. Además, también ejercía la censura a través de la Inquisición.
+
+- **Directorio Militar:** periodo de la dictadura militar de Miguel Primo de Rivera comprendido entre 1923 y 1925. Se caracteriza por el orden público generado por medidas autoritarias y represivas como: la supresión de Cortes y Constitución, ilegalización de sindicatos y partidos políticos, y la supresión de los ayuntamientos.
+
+- **Libertad de imprenta:** libertad de imprimir y distribuir información sin censura por parte del gobierno o la Inquisición. En España, aparece por primera vez en la Constitución de 1812 redactada en las Cortes de Cádiz.
+
+- **Gobierno Constitucional:** gobierno el cual está controlado por la Constitución, la máxima ley que establece qué pueden hacer tanto el gobierno como los ciudadanos. Es una característica de la Restauración (1874-1931).
+
+- **Reaccionario:** {relativo al carlismo} grupos de personas que, frente a una ley o propuesta, mantienen una actitud de rechazo para evitar su ejecución. En España, durante la 1ª Guerra Carlista (1833-1840), los reaccionarios buscaban la restauración de los fueros y que el trono fuera heredado por Carlos María Isidro. También se les conoce como Carlistas.
+
+- **Reforma agraria:** conjunto de medidas implementadas por el gobierno que tiene como objetivo redistribuir las tierras y los recursos agrícolas. Durante la primera mitad del siglo XIX español, hubo bastantes reformas agrarias. Destacan las de los gobiernos liberales de Mendizábal y Calatrava durante la Regencia de María Cristina (1833-1840).
+
+- **Soberanía Compartida:** característica de un Estado recogida en la Constitución en la cual su máxima autoridad o soberanía recae sobre dos o más organismos. Durante la Restauración (1874-1931), la soberanía era compartida entre el monarca (que tenía el papel de árbitro político) y las Cortes.
+
+- **Sufragio Universal Masculino:** sistema de votación recogido en la Constitución en el cual pueden votar todos los hombres sin importar sus condiciones económicas o sociales, siempre que superen la mayoría de edad. Se trata de una medida progresista. En el siglo XIX español, aparece por primera vez en el Sexenio Democrático (1868-1874) y en la Restauración (1874-1931) aparece en 1890.
+
+
+## Siglo XX
+
+
+###  La crisis de la Restauración, la Dictadura de Primo de Rivera
+
 
 - **Protectorado:** forma de gobierno de una colonia en la cual mantenían autonomía propia en el ámbito interior. Sin embargo, la política exterior era gestionada por el país colonizador. España, después del tratado de 1912 y la Conferencia de Algeciras (1906), consiguió un protectorado en Marruecos que tuvo que gestionar conjuntamente con Francia.
+
 - **Regeneracionismo:** corriente ideológica impulsada por Joaquín Costa y otros autores que intentaban frenar el deterioro de España después del desastre del 98 (la pérdida de las colonias). Se ubica a finales del siglo XIX y a principios del siglo XX. La sustitución de Cánovas y Sagasta por Maura y Canalejas contribuyó a la regeneración del sistema político, ya que trataban de reducir el caciquismo.
+
 - **Cabilas:** tribus bereberes situadas en el norte de África. A principios del siglo XX, España tuvo un protectorado en Marruecos donde las cabilas atacaban a las tropas españolas. El incidente más destacable fue la masacre del Barranco del Lobo.
+
 - **Estado de guerra:** situación excepcional recogida en la Constitución en la que un país entra en un conflicto bélico. En esta situación, el Estado toma medidas especiales como restringir los derechos (por ejemplo, el de reunión) y las libertades, o la ampliación de los poderes y funciones del poder Ejecutivo y de los militares, quienes pueden realizar juicios militares. España, durante la Semana Trágica (1909), entró en este estado.
+
 - **CNT:** Confederación Nacional de Trabajadores, sindicato de carácter anarcosindicalista, que trata de abolir el Estado y sus leyes. Aparece en España durante el primer tercio del siglo XX. Por ejemplo, durante la Gran Guerra realizó un congreso por la paz en El Ferrol.
+
 - **Pistolerismo:** pistoleros contratados por la patronal para luchar contra el sindicalismo. Asesinaban a los dirigentes obreros y a los sindicatos. Aparecen en España durante la Restauración (1874-1931). Tras la crisis del 17, aparece la Federación Patronal que contratará a estos pistoleros. La situación empeorará drásticamente con la ley de fugas.
+
 - **Ley Marcial:** ley recogida en la Constitución, la cual, en situaciones excepcionales como huelgas generales, dota a los militares de una ampliación de sus poderes y funciones. Durante la Restauración (1874-1931), en la crisis de 1917, se aplicó la Ley Marcial.
+
 - **Golpe de Estado:** acto realizado por los militares dirigidos por uno de mayor rango que mediante la fuerza consiguen realizar un cambio a nivel político aboliendo el gobierno actual e iniciando una dictadura. Durante el siglo XX destaca el Golpe de Estado de Miguel Primo de Rivera para evitar la difusión de los resultados del expediente Picasso.
+
 - **Gobiernos de Concentración:** sistema de gobierno donde el gobierno integra diferentes miembros de diferentes partidos para afrontar una situación de crisis. Por ejemplo, después del desastre de Annual, para hacer frente a las constantes insurrecciones, se recurrió a este sistema de gobierno.
+
 - **Corporativismo:** forma de organización social y económica en la que los diferentes grupos de la sociedad están estructurados en corporaciones. Su objetivo es lograr la armonía entre las clases sociales. Es una característica propia de la dictadura militar de Primo de Rivera, aunque también es una característica del fascismo.
+
 - **Plebiscito:** votación en la cual el electorado tiene que aceptar o rechazar una propuesta. Las elecciones de 1931, a pesar de no ser un plebiscito como tal, acabaron siéndolo ya que la gente votaba en contra o a favor de la monarquía. Tras esto se pone fin a la Restauración (1874-1931) y se inicia la Segunda República.
+
 - **Dictadura:** sistema de gobierno impuesto tras un golpe de Estado donde todos los poderes del Estado recaen sobre el dictador. Durante las dictaduras, la Constitución se suprime, así como otros derechos y libertades de los ciudadanos. También se caracterizan por medidas autoritarias o autárquicas. España ha sufrido dos dictaduras: la de Primo de Rivera (1923-1930) y la de Francisco Franco.
     - La de Primo de Rivera se caracteriza por el corporativismo y se basa en el fascismo.
     - La de Franco se caracteriza por la creación del "Movimiento" y se basa en el nazismo.
 
-##  Otras
-- **Bienes comunales:** conjunto de tierras que pertenecen a un ayuntamiento las cuales son de uso común; es decir, para todos los habitantes de un municipio, por ejemplo, las montañas boscosas sin explotar. En la desamortización de Madoz del Bienio Progresista (1854-1856), estas tierras también son expropiadas.
-- **Censo:** recuento de la población clasificada por su lugar de residencia. El censo tiene distintas utilidades, por ejemplo: tomar decisiones políticas en función del número de habitantes de una zona, gestionar la recaudación de impuestos, generar los distritos electorales en las elecciones, etc.
-- **Censura:** {orientada al s.XIX} acto de suprimir deliberadamente la difusión de información o ideas. Este control es ejercido por varios organismos. En España, durante el siglo XIX, era ejercida por la Monarquía y por la Iglesia a través de la Inquisición para evitar la difusión de las ideas ilustradas, republicanas o liberales y/o anticlericales.
-- **Confesionalidad:** carácter religioso de una religión como oficial y se compromete a respaldarla. En España, la religión oficial siempre ha sido el catolicismo. La iglesia cobraba el diezmo, pero asumía ciertas competencias del ámbito educativo y sanitario. Además, también ejercía la censura a través de la Inquisición.
-- **Directorio Militar:** periodo de la dictadura militar de Miguel Primo de Rivera comprendido entre 1923 y 1925. Se caracteriza por el orden público generado por medidas autoritarias y represivas como: la supresión de Cortes y Constitución, ilegalización de sindicatos y partidos políticos, y la supresión de los ayuntamientos.
-- **Libertad de imprenta:** libertad de imprimir y distribuir información sin censura por parte del gobierno o la Inquisición. En España, aparece por primera vez en la Constitución de 1812 redactada en las Cortes de Cádiz.
-- **Gobierno Constitucional:** gobierno el cual está controlado por la Constitución, la máxima ley que establece qué pueden hacer tanto el gobierno como los ciudadanos. Es una característica de la Restauración (1874-1931).
-- **Reaccionario:** {relativo al carlismo} grupos de personas que, frente a una ley o propuesta, mantienen una actitud de rechazo para evitar su ejecución. En España, durante la 1ª Guerra Carlista (1833-1840), los reaccionarios buscaban la restauración de los fueros y que el trono fuera heredado por Carlos María Isidro. También se les conoce como Carlistas.
-- **Reforma agraria:** conjunto de medidas implementadas por el gobierno que tiene como objetivo redistribuir las tierras y los recursos agrícolas. Durante la primera mitad del siglo XIX español, hubo bastantes reformas agrarias. Destacan las de los gobiernos liberales de Mendizábal y Calatrava durante la Regencia de María Cristina (1833-1840).
-- **Soberanía Compartida:** característica de un Estado recogida en la Constitución en la cual su máxima autoridad o soberanía recae sobre dos o más organismos. Durante la Restauración (1874-1931), la soberanía era compartida entre el monarca (que tenía el papel de árbitro político) y las Cortes.
-- **Sufragio Universal Masculino:** sistema de votación recogido en la Constitución en el cual pueden votar todos los hombres sin importar sus condiciones económicas o sociales, siempre que superen la mayoría de edad. Se trata de una medida progresista. En el siglo XIX español, aparece por primera vez en el Sexenio Democrático (1868-1874) y en la Restauración (1874-1931) aparece en 1890.
+### Otras
+
+- **Golpe de estado:** Es un cambio brusco y no democrático en el rumbo de un país ejercido por un grupo de personas que pretenden tomar el control del poder de forma inmediata. Este golpe suele ser ejercido por militares o políticos, y suele comportar el uso de fuerza en su proceso mediante armas. Este proceso implica la destrucción del gobierno existente y puede ser motivado por distintas razones como: disputas políticas, descontento social, o la ambición de poder de ciertos individuos. Algunos ejemplos de golpes de estados impulsados a lo largo del siglo XX en España son: el golpe de estado ejercido por Primo de Rivera en 1923 o el golpe de estado del 18 de julio de 1936.
+
+- **Democracia:** Sistema político basado principalmente en la soberanía nacional, la participación activa del pueblo en la toma de decisiones mediante la posibilidad de votar a sus representantes del gobierno por medio del sufragio. Otra característica indispensable para la existencia de este sistema es la división de los poderes del estado en ejecutivo, legislativo y judicial; con tal de evitar la centralización del poder. Todas estas características, junto con las libertades de los ciudadanos y la relación con la iglesia, suelen estar recogidas en la constitución del país. 
+
+- **Constitución:** Conjunto de leyes fundamentales de un estado y que sirve como base legal para este mismo. En este se establecen los derechos y libertades de los ciudadanos, la relación entre el gobierno y la iglesia, y la división de los poderes en ejecutivo, legislativo y judicial;con tal de evitar la centralización del poder. Esta también suele establecer la existencia de la soberanía con tal de marcar el grado de participación de la población en la toma de decisiones. Algunos ejemplos podrían ser: la constitución de las segunda república o la de 1978.
+
+- **Nacional Catolicismo:** Ideología política y cultura promovida por el régimen franquista en España que pretendía fusionar el nacionalismo español con el catolicismo. Esto supuso la implicación de la iglesia en la cultura, la educación y en la vida cotidiana. Este poder ejercido por la iglesia fue concedido por el régimen franquista ya que la iglesia comportaba uno de los tres pilares fundamentales para el régimen por su apoyo ofrecido desde la guerra civil. Diversas organizaciones vinculadas al Movimiento como la sección femenina fueron las encargadas de difundir la moral católica en la sociedad, en este caso inculcada hacia la mujer en específico. (también hablar de la relevancia de la IIGM para el concepto).
+
+- **Nacional Sindicalismo:** Doctrina política promovida por el régimen franquista que pretendía combinar los elementos del sindicalismo corporativista con el nacionalismo autoritario español. Esta fue inspirada por influencia del sistema italiano y tuvo como base la primera de las leyes fundamentales, el fuero del trabajo de 1938 en la que se recogían también los principios de las relaciones entre los trabajadores. También se imponía un único sindicato corporativista dirigido por la Falange. Este sistema rechazaba la lucha de clases y la posibilidad de reivindicarse laboralmente mediante huelgas o manifestaciones.
+
+- **República:** Forma de gobierno en la cual el poder político es ejercido por representantes electos por el pueblo y que actúan en nombre de la población, soberanía nacional. En una república, esta se rige por una constitución que establece las reglas y los límites del gobierno, garantiza los derechos y las libertades de los ciudadanos, y establece un sistema de división de poderes; ejecutivo, legislativo y judicial. A diferencia de una monarquía, en una república, el jefe de Estado no es hereditario, sino una persona elegida por un período determinado.
+
+- **Búnker:** Tras el fracaso del gobierno de Arias Navarro y por tanto el fracaso de la continuación del franquismo, se produjo una radicalización del sector inmovilista que adquirió este término. Estos se oponían radicalmente a introducir ningún tipo de cambio en el régimen franquista y que tras la muerte de Franco rechazaron de forma absoluta a la reforma del régimen defendiendo en su lugar la continuidad del Movimiento Nacional. 
+
+- **Leyes fundamentales:** Conjunto de medidas legislativas que adoptó franco para tratar de dar legalidad al régimen ante el desarrollo de la IIGM y la necesidad de Franco de ir acercándose a los vencedores del conflicto. La primera de las leyes fue la del Fuero del trabajo 1938, esta recogía los principios del nacionalsindicalismo y la relación entre los trabajadores  y empresarios. Más tarde fueron sucediendo leyes como la Ley Constitutiva de las Cortes 1942, la Ley del Referéndum Nacional 1945, el Fuero de los Españoles 1945 y la Ley de Sucesión 1947.
+
+- **Bienio Negro:** Término que se utiliza para referirse al período de gobierno conservador en España durante la Segunda República, que abarcó desde noviembre de 1933 hasta febrero de 1936. Este gobierno la CEDA no gobernó directamente hasta casi el final de su mandato, sino que fué el gobierno radical de Lerroux el que hizo la mayoría de contrarreformas al principio del periodo. Este fue llamado "negro" debido a las políticas conservadoras y represivas que se implementaron, así como por el clima de agitación social y política que caracterizó a este tiempo.
+
+- **Tecnócratas:** Profesional especializado en el ámbito económico o administrativo que persigue el bienestar social al margen de miramientos ideológicos. Son propios de las tecnocracias (gobierno de los técnicos) donde son los encargados de la toma de decisiones en base a su especialidad. Fue en el inicio de la etapa desarrollista del franquismo cuando el máximo consejero y mano derecha de Franco, Carrero Blanco, le propuso la formación de un gobierno compuesto por estos especialistas con el fin de impulsar el desarrollo económico.
+
+- **Sublevados:** Era el bando dirigido por Franco durante la Guerra Civil y opuestos a la República. También eran conocidos como el bando nacional y estaba compuesto mayormente por militares, falangistas, monárquicos y conservadores. Este bando recibió apoyo militar y logístico de parte de las fuerzas fascistas de Italia y la alemania nazi. Los objetivos eran dispares: los organizadores buscaban una dictadura militar, los falangistas un régimen fascista, los carlistas una monarquía tradicional y los monárquicos el retorno de Alfonso. Al final de la guerra civil y con la victoria de este bando se inspiró un clima de vencedores y vencidos en el que los integrantes de este bando se vieron beneficiados.
+Amnistía
+
+- **Sufragio (femenino):** Derecho al voto en una elección política, es decir, el derecho de los ciudadanos a votar a sus representantes políticos en el parlamento, los cuales tomarán decisiones legislativas de gran importancia para el desarrollo del país. (Aquí ya habría que o hablar del sufragio de las mujeres su relevancia histórica y que fue promulgado por primera vez en la constitución de 1931 o del que toque por el periodo histórico en su defecto)
+
+- **Caudillo:** Se refiere a Francisco Franco, quien asumió el poder como dictador tras la victoria del bando sublevado en la Guerra Civil Española. Franco fue conocido con este término y gobernó el país de manera autoritaria durante casi cuatro décadas, hasta su muerte en 1975. Franco ejerció un control absoluto sobre el gobierno, el ejército y la sociedad española, estableciendo un régimen autoritario conocido como el “Franquismo”. Bajo su liderazgo, se promulgaron las Leyes Fundamentales que otorgaban poderes dictatoriales al caudillo y establecían un estado totalitario.
 
 
 
+
+- **Estado de Guerra:** Se refiere a una situación en la que un país se encuentra involucrado en hostilidades, conflictos armados o guerras. En este contexto, el término implica que la nación ha declarado oficialmente su participación en una guerra o se encuentra en un estado de confrontación militar con otro. En este se activan medidas y protocolos específicos relacionados con la movilización de fuerzas armadas, la implementación de estrategias militares y la gestión de recursos para la guerra. En muchos casos, también pueden ir acompañados de la eliminación de ciertos derechos civiles y garantías individuales.
+
+- **Amnistía:**Es un acto legal o político por el cual un gobierno otorga el perdón y la remisión total o parcial de las penas a individuos o grupos que han cometido ciertos delitos o faltas. Esta medida tiene como objetivo promover la reconciliación, la pacificación y la justicia en una sociedad que ha experimentado conflictos o situaciones difíciles. La amnistía puede aplicarse  en diferentes situaciones como conflictos armados, movimientos de resistencia, o incluso a personas que han sido condenadas por delitos políticos.
+
+- **Democracia  Orgánica:** Fue una doctrina política promovida por el régimen franquista en España durante el siglo XX, destinada a dar legalidad a su sistema autoritario. Contrario a los principios democráticos occidentales, este modelo se basaba en la organización corporativista de la sociedad bajo el control del Estado. Esta buscaba integrar a los ciudadanos en estructuras sociales, como sindicatos y asociaciones, controladas por el Estado, en lugar de promover la participación política pluralista. Este sistema pretendía mantener el orden social y político, al tiempo que preservaba la autoridad del régimen franquista.
+
+- **Referéndum:**Es un mecanismo característico de la democracia en el que se somete una cuestión a votación popular para que los ciudadanos decidan su aprobación o rechazo. Puede tratar sobre temas como la aprobación de leyes, reformas constitucionales o tratados internacionales. Este instrumento por tanto se usa para completar el sistema democrático y acabar de legalizar decisiones trascendentales y promover la participación ciudadana en asuntos clave del gobierno y la sociedad. Un ejemplo de referéndum podría ser el realizado tras la redacción de la constitución española de 1978.
+
+- **Estatuto de Autonomía:** Es una norma fundamental que regula el autogobierno de una comunidad autónoma. España está dividida en distintas regiones que gozan de un cierto grado de autonomía gracias a esta norma que les aporta competencias a nivel legislativo, ejecutivo y judicial. Este derecho a la autonomía está recogido en la constitución de 1978 y se puede acceder por medio de los artículos 151 y 143. 
+
+
+- **Inmovilistas:** En la década de los 60 los políticos franquistas se plantean el futuro del régimen tras la muerte de Franco y se definió la postura de inmovilistas frente a la de los aperturistas. Su proyecto consistía en asegurar la continuidad del régimen franquista y mantener todo el sistema institucional y los principios del mismo definidos en las leyes fundamentales mediante la instauración de la monarquía de Juan Carlos. Se integraba en su mayoría de los tecnócratas del Opus Dei cuyo caledor era el almirante Carrero Blanco y la “vieja guardia” falangista del Movimiento Nacional.
+
+
+- **Aperturistas:** En la década de los 60 los políticos franquistas se plantean el futuro del régimen tras la muerte de Franco y se definió la postura de los aperturistas frente de los inmovilistas. Estos proponían introducir algunos caminos que estuvieran de acuerdo con la transformación que estaba viviendo la sociedad española gracias al gran crecimiento económico por el plan de Estabilización. Procedían del movimiento y tenían ministros de representantes que aprovecharon para revivirlo mediante la creación de “asociaciones políticas” con la organización sindical proporcionando la participación de trabajadores. Se oponía a la “solución monárquica” de Carrero Blanco y apostaban por un sistema presidencialista para continuar el régimen con un militar “revestido de gerente”.

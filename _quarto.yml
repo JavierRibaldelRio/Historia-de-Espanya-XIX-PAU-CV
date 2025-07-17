@@ -37,10 +37,13 @@ book:
       chapters:
       - pages/Unidades/Fin-Restauracion.qmd
       - pages/Unidades/Sociedad-XX.qmd
+      - pages/Unidades/Republica2.qmd
+      - pages/Unidades/Guerra-Civil.qmd
+      - pages/Unidades/Franquismo.qmd
+      - pages/Unidades/Franquismo-2.qmd
+      - pages/Unidades/Transicion.qmd
 
-    - part: "Vocabulario"
-      chapters:
-          - pages/Vocabulario-s-xix.qmd
+    - pages/Vocabulario-s-xix.qmd
     
  
   
