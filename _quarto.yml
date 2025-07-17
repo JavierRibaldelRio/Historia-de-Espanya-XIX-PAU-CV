@@ -6,9 +6,11 @@ project:
     port: 3000
 
 book:
-  title: "Historia de España"
+  title: "Apuntes Historia de España para la PAU"
+  description: "Apuntes de Historia de España para preparar la PAU: temas clave, resúmenes, definiciones y conceptos esenciales explicados de forma clara."
   page-footer: © Copyright 2025
   subtitle: "Prueba de Acceso Universidad Comunidad Valenciana"
+  language: es
   bread-crumbs: false
   sidebar: 
     title: "Historia de España  PAU CV"
@@ -16,7 +18,9 @@ book:
     border: true
     
   image: pictures/Portada.png
+    
   cover-image: pictures/Portada.png
+  
   favicon: pictures/Portada.png
   chapters: 
     - href: index.qmd
@@ -44,6 +48,7 @@ format:
   html:
     smooth-scroll: true
     include-in-header: "adsense-head.html"
+    social-share: true
     toc-depth: 4
     language: 
       title-block-author-single: "Autor"
