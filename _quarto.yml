@@ -50,6 +50,8 @@ book:
 format:
   html:
     smooth-scroll: true
+    resources: 
+      - ads.txt
     include-in-header: "adsense-head.html"
     social-share: true
     toc-depth: 4
